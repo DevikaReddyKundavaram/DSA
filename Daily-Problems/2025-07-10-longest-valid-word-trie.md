@@ -76,14 +76,21 @@ class Solution:
                     longest = word
         return longest
 ```
+---
 
-💼 Applications of Trie (In Real-World)
-Application→Description
-🔍 Auto-complete Engines	→Typing “pro” → suggestions like “program”, “process”, etc.
-📚 Dictionary Word Lookup	→Faster word search, with support for prefix-based logic.
-🔐 IP Routing (Network Tries)→	Used in longest prefix match for IP addresses (e.g. routers, firewalls).
-🧠 Spell Checker	→Detects wrong spellings and suggests possible corrections using prefix paths.
-🧠 Word Games / Boggle Solver→	Efficiently verifies valid words in board games using prefix pruning.
+## 📌 Applications
+
+| # | Application Area              | Real-World Example |
+|---|-------------------------------|--------------------|
+| 1 | Auto-complete systems         | Google, IDEs       |
+| 2 | Word-building games           | Scrabble, Wordle   |
+| 3 | Language learning             | Duolingo, Memrise  |
+| 4 | Role-based security           | Admin roles, APIs  |
+| 5 | File system path validation   | Linux, Web Servers |
+| 6 | NLP subword token validation  | Transformers, BERT |
+| 7 | Build system dependency check | CMake, Makefiles   |
+
+---
 
 🏷️ Tags
 #Trie #String #PrefixCheck #Greedy #GFG #LexicographicalOrder #DSA
