@@ -37,16 +37,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 - Cover other categories: Arrays, DP, Graphs, Trees
 - Use Python & C++ for bilingual strength
 
----
-
-## 📁 Folder Structure
-DSA-Repository/
-├── Daily-Problems/ # .md files per problem
-│ ├── 2025-07-10-longest-valid-word.md
-├── README.md
 
 
----
 
 ## 🙌 Let's Connect
 
