@@ -76,46 +76,7 @@ class Solution:
                     longest = word
         return longest
 ```
-⏱️ Time & Space Complexity
-Metric	Value
-Time Complexity	O(N * M) (inserting + prefix check)
-Space Complexity	O(N * M) (for storing Trie nodes)
 
-Where:
-
-N = number of words
-
-M = average word length
-
-🧪 Dry Run Example
-Input:
-
-python
-Copy
-Edit
-["a", "ab", "abc", "abd"]
-✅ Trie structure:
-
-scss
-Copy
-Edit
-a
-├── b (is_word)
-    ├── c (is_word)
-    └── d (is_word)
-➡️ Check each word:
-
-a → ✅
-
-ab → ✅
-
-abc → ✅
-
-abd → ✅
-
-
-
-Both "abc" and "abd" are valid, but "abc" is lexicographically smaller, so we return it.
 💼 Applications of Trie (In Real-World)
 Application→Description
 🔍 Auto-complete Engines	→Typing “pro” → suggestions like “program”, “process”, etc.
