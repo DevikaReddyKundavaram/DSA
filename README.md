@@ -9,7 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
-| 2025-07-10 | Longest Word With All Prefixes Present     | ✅ Fast & Trie        | `#Strings`, `#Trie`, `#Greedy` |[Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
+| 2025-07-10 | Longest Word With All Prefixes Present     | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` |[Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
 
 ---
 
