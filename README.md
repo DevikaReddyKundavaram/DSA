@@ -14,13 +14,16 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 ---
 
-## 🧠 Topics Covered So Far
+# 🧠 Topics Covered So Far
 
 - ✅ **Strings**
 - ✅ **Prefix Checking**
 - ✅ **Greedy Logic**
 - ✅ **Trie (Prefix Tree)**
-
+- ✅ **Dynamic Programming (DP)**
+- ✅ **Complement Counting**
+- ✅ **Binary Strings**
+- ✅ **Recurrence Relations**
 ---
 
 ## 🎯 Goal
