@@ -88,7 +88,7 @@ class Solution:
 
 
        
-## 💡 Algorithm
+## 💡 Algorithm (Dynamic Programming)
 
 We use **Dynamic Programming (Tabulation)**:
 
