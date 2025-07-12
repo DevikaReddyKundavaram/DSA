@@ -5,7 +5,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 ---
 
-## 📌 Currently Solved Problems: `1`
+## 📌 Currently Solved Problems: `3`
 
 | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
