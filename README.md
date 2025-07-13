@@ -5,13 +5,15 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 ---
 
-## 📌 Currently Solved Problems: `3`
+## 📌 Currently Solved Problems: `4`
 
 | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
 | 2025-07-10 | Longest Word With All Prefixes Present     | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` |[Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
 | 2025-07-11 | Trail of Ones                               | ✅DP + Complement Count | `#DP`, `#BinaryStrings`, `#Recurrence`, `#BitManipulation` | [Code](./Daily-Problems/2025-07-11-Trail_of_Ones.md) |
 | 2025-07-12 | Gold Mine Problem                           | ✅2D DP (Tabulation)    | `#DP`, `#Matrix`, `#GridTraversal` | [Code](./Daily-Problems/2025-07-12-gold-mine-problem.md) |
+| 2025-07-13 | Maximum Sum Elements Not in LNDS             | ✅1D DP (Tabulation), ✅Bisect (Binary Search) | `#DP`, `#BinarySearch`, `#Greedy`, `#Subsequence` | [Code](./Daily-Problems/2025-07-13-maximum-sum-not-in-LNDS.md) |
+
 
 ---
 # 🧠 Topics Covered So Far
@@ -23,10 +25,14 @@ This is my personal DSA repository where I solve and document coding problems wi
 - ✅ **Dynamic Programming (DP)**
 - ✅ **Matrix DP**
 - ✅ **Grid Traversal**
+- ✅ **1D DP (Tabulation)**
+- ✅ **Binary Search (Bisect)**
 - ✅ **Complement Counting**
 - ✅ **Binary Strings**
 - ✅ **Recurrence Relations**
+- ✅ **Subsequence Patterns**
 ---
+
 ## 🎯 Goal
 
 - 🔥 Stay consistent solving problems daily
