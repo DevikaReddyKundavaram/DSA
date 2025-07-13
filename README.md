@@ -46,7 +46,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 - Add more problems daily from GFG/LeetCode
 - Cover other categories: Arrays, DP, Graphs, Trees
-- Use Python & C++ for bilingual strength
+- Use Python & Java for bilingual strength
 
 
 
