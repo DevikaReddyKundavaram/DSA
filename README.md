@@ -57,10 +57,10 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 
 
-## 🙌 Let's Connect
+## 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devika-reddy-kundavaram-bb3a0122a/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/DevikaReddyKundavaram)
 
-📧 [devikareddykundavaram@example.com]  
-🔗 [[https://www.linkedin.com/in/devika-reddy-kundavaram-bb3a0122a/]]  
 📍 India
 
 ---
