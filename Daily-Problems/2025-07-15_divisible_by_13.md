@@ -1,7 +1,6 @@
 # 🔢 Problem: Divisible by 13
 
 **Difficulty:** Medium  
-**Tags:** String, Mathematics, Modulo, Large Numbers  
 
 ---
 
@@ -43,15 +42,7 @@ False
     - `res = (res * 10 + int(c)) % 13`
 3. If `res == 0`, then `s` is divisible by **13**.
 
----
 
-## 📄 Algorithm Steps
-1️⃣ Initialize res = 0
-2️⃣ For each digit c in the string s:
-    res = (res * 10 + int(c)) % 13
-3️⃣ If res == 0, return True
-4️⃣ Else, return False
----
 
 ## ⏱️ Time and Space Complexity
 
@@ -78,9 +69,6 @@ def isDivisibleBy13(s):
     return res == 0
 ```
 
-# Sample Inputs
-print(isDivisibleBy13("2911285"))  # True
-print(isDivisibleBy13("27"))       # False
 
 ## 🌍 Real-World Applications
 
@@ -120,13 +108,5 @@ These types of modulus operations on large string-represented numbers are founda
 - Designing efficient algorithms for large datasets
 - Preparing for real-world edge cases in software systems
 
-## 🏷️ Tags
-- Strings
-- Mathematics
-- Modulo Arithmetic
-- Large Numbers
-- Number Theory
-- Competitive Programming
-- Problem Solving
 
 **Tags:** `Strings`, `Mathematics`, `Modulo`, `Large Numbers`, `Number Theory`, `Competitive Programming`
