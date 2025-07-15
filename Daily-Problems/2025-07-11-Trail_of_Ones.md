@@ -106,21 +106,6 @@ class Solution:
 
 7. **Math & Combinatorics Practice**
    - Useful for practicing recurrence relations and dynamic programming.
-  
-8. ## 🏷️ Tags
+     
+**Tags:** `#DynamicProgramming`, `#BinaryStrings`, `#ComplementCounting`, `#RecurrenceRelation`, `#FibonacciPattern`, `#BitManipulation`, `#StringGeneration`, `#DP`, `#InterviewQuestion`, `#MediumLevel`, `#DailyDSA`, `#Python`, `#Combinatorics`, `#PatternDetection`, `#FiniteStateMachine`
 
-- #DynamicProgramming  
-- #BinaryStrings  
-- #ComplementCounting  
-- #RecurrenceRelation  
-- #FibonacciPattern  
-- #BitManipulation  
-- #StringGeneration  
-- #DP  
-- #InterviewQuestion  
-- #MediumLevel  
-- #DailyDSA  
-- #Python  
-- #Combinatorics  
-- #PatternDetection  
-- #FiniteStateMachine
