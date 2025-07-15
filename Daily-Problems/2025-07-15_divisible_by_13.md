@@ -109,4 +109,5 @@ These types of modulus operations on large string-represented numbers are founda
 - Preparing for real-world edge cases in software systems
 
 
-**Tags:** `Strings`, `Mathematics`, `Modulo`, `Large Numbers`, `Number Theory`, `Competitive Programming`
+## 🔖 Tags
+`#Strings`, `#Mathematics`, `#Modulo`, `#LargeNumbers`, `#NumberTheory`, `#CompetitiveProgramming`
