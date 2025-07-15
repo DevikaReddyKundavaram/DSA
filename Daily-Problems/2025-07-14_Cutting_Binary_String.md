@@ -95,12 +95,4 @@ Protocols sometimes break payloads into specific **binary lengths with mathemati
 ---
 
 ## 🔖 Tags
-
-- Dynamic Programming (DP)
-- Binary Strings
-- Substring Problems
-- Bit Manipulation
-- Number Theory (Powers of 5)
-- String Processing
-- Mathematical Validation
-- Competitive Programming
+`#DynamicProgramming`, `#BinaryStrings`, `#SubstringProblems`, `#BitManipulation`, `#NumberTheory`, `#StringProcessing`, `#MathematicalValidation`, `#CompetitiveProgramming`
