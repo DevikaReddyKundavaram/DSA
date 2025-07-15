@@ -5,7 +5,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 ---
 
-## 📌 Currently Solved Problems: `5`
+## 📌 Currently Solved Problems: 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
 | 1    | 2025-07-10 | Longest Word With All Prefixes Present     | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` | [Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
