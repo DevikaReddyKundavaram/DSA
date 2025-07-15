@@ -150,6 +150,6 @@ class Solution:
   Simulate best possible path for extracting minerals or resources from a mapped-out terrain.
 ---
 
-**Tags:** `#DynamicProgramming`, `#MatrixDP`, `#GreedyMoves`, `#GridTraversal`, `#Tabulation`, `#2DMatrix`, `#MediumLevel`, `#DailyDSA`
+##**Tags:** `#DynamicProgramming`, `#MatrixDP`, `#GreedyMoves`, `#GridTraversal`, `#Tabulation`, `#2DMatrix`, `#MediumLevel`, `#DailyDSA`
 
 
