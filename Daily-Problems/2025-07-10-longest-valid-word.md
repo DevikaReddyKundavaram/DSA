@@ -182,5 +182,6 @@ class Solution:
 
 ---
 
-**Tags:**`Trie`,`String` ,`PrefixCheck`,`Greedy`,`GFG`,`LexicographicalOrder`,`DSA`
+## 🔖 Tags
+`#Trie`, `#String`, `#PrefixCheck`, `#Greedy`, `#GFG`, `#LexicographicalOrder`, `#DSA`
 
