@@ -160,4 +160,5 @@ class Solution:
   Identifying outliers or noise that disrupts trends in sequential data.
 
 ---
-**Tags:** `#DynamicProgramming`, `#BinarySearch`, `#LongestNonDecreasingSubsequence`, `#Subsequence`, `#Greedy`, `#Array`, `#MaximumSum`, `#Optimization`, `#CompetitiveProgramming`
+## 🔖 Tags
+`#DynamicProgramming`, `#BinarySearch`, `#LongestNonDecreasingSubsequence`, `#Subsequence`, `#Greedy`, `#Array`, `#MaximumSum`, `#Optimization`, `#CompetitiveProgramming`
