@@ -14,12 +14,13 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 4    | 2025-07-13 | Maximum Sum Elements Not in LNDS             | ✅1D DP (Tabulation), ✅Bisect (Binary Search) | `#DP`, `#BinarySearch`, `#Greedy`, `#Subsequence` | [Code](./Daily-Problems/2025-07-13-maximum-sum-elements-not-in-lis.md) |
 | 5    | 2025-07-14 | Cutting Binary String                           | ✅1D DP (Tabulation), ✅Bit Manipulation, ✅Prefix Checking | `#DP`, `#BinaryStrings`, `#BitManipulation`, `#Mathematics` | [Code](./Daily-Problems/2025-07-14_Cutting_Binary_String.md) |
 | 6    | 2025-07-15 | Divisible by 13 | ✅String Modulus, ✅Mathematics, ✅Large Numbers | `#Strings`, `#Mathematics`, `#Modulo`, `#LargeNumbers` | [Code](./Daily-Problems/2025-07-15_divisible_by_13.md) |
-
+| 7    | 2025-07-16 | Nine Divisors   | ✅Sieve of Eratosthenes, ✅Number Theory, ✅Math | `#Mathematics`, `#NumberTheory`, `#Primes`, `#Divisors` | [Code](./Daily-Problems/2025-07-16_Nine_Divisors.md)   |
+ 
 
 
 
 ---
-# 🧠 Topics Covered So Far
+## 🧠 Topics Covered So Far
 
 - ✅ **Strings**
 - ✅ **Prefix Checking**
@@ -37,6 +38,10 @@ This is my personal DSA repository where I solve and document coding problems wi
 - ✅ **Bit Manipulation**
 - ✅ **Mathematical Validation**
 - ✅ **Modulo Arithmetic (Large Numbers)**
+- ✅ **Number Theory**
+- ✅ **Divisors Counting**
+- ✅ **Sieve of Eratosthenes**
+- ✅ **Prime Factorization**
 ---
 
 
