@@ -15,7 +15,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 5    | 2025-07-14 | Cutting Binary String                           | ✅1D DP (Tabulation), ✅Bit Manipulation, ✅Prefix Checking | `#DP`, `#BinaryStrings`, `#BitManipulation`, `#Mathematics` | [Code](./Daily-Problems/2025-07-14_Cutting_Binary_String.md) |
 | 6    | 2025-07-15 | Divisible by 13 | ✅String Modulus, ✅Mathematics, ✅Large Numbers | `#Strings`, `#Mathematics`, `#Modulo`, `#LargeNumbers` | [Code](./Daily-Problems/2025-07-15_divisible_by_13.md) |
 | 7    | 2025-07-16 | Nine Divisors   | ✅Sieve of Eratosthenes, ✅Number Theory, ✅Math | `#Mathematics`, `#NumberTheory`, `#Primes`, `#Divisors` | [Code](./Daily-Problems/2025-07-16_Nine_Divisors.md)   |
- 
+| 8    | 2025-07-17 | Power of K in Factorial of N   | ✅Prime Factorization, ✅Legendre’s Formula, ✅Number Theory | `#Mathematics`, `#NumberTheory`, `#PrimeFactorization`, `#Factorials`, `#Combinatorics` | [Code](./Daily-Problems/2025-07-17_power_of_k_in_factorial_of_n.md) |
 
 
 
@@ -42,6 +42,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 - ✅ **Divisors Counting**
 - ✅ **Sieve of Eratosthenes**
 - ✅ **Prime Factorization**
+- ✅ **Legendre’s Formula (Counting Prime Power in Factorials)**
 ---
 
 
