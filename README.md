@@ -18,7 +18,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 8    | 2025-07-17 | Power of K in Factorial of N   | ✅Prime Factorization, ✅Legendre’s Formula, ✅Number Theory | `#Mathematics`, `#NumberTheory`, `#PrimeFactorization`, `#Factorials`, `#Combinatorics` | [Code](./Daily-Problems/2025-07-17_power_of_k_in_factorial_of_n.md) |
 | 9    | 2025-07-18 | LCM Triplet                   | ✅Number Theory, ✅Brute Force Optimization, ✅LCM    | `#Mathematics`, `#NumberTheory`, `#LCM`, `#BruteForce`, `#Optimization` | [Code](./Daily-Problems/2025-07-18_LCM_Triplet.md)                  |
 
-
+---
 
 ## 🧠 Topics Covered So Far (Table Format)
 
@@ -28,7 +28,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Mathematics & Number Theory** | ✅ Mathematical Validation <br> ✅ Modulo Arithmetic (Large Numbers) <br> ✅ Number Theory <br> ✅ Divisors Counting <br> ✅ Sieve of Eratosthenes <br> ✅ Prime Factorization <br> ✅ Legendre’s Formula (Counting Prime Power in Factorials) |
 | **Dynamic Programming (DP)** | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations |
 | **Algorithmic Approaches**   | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation |
-
+---
 
 ## 🎯 Goal
 
