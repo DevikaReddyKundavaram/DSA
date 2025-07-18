@@ -133,16 +133,14 @@ class Solution:
 - **Use:** Finding when celestial cycles (e.g., orbits) coincide again.
 - **Examples:**
   - Predicting planetary alignments.
-
 ## 🏷️ Tags
+- `Number Theory`
+- `LCM`
+- `Mathematics`
+- `Brute Force`
+- `Optimization`
+- `Competitive Programming`
+- `Algorithms`
+- `Python`
+- `Interview Preparation`
 
-- Number Theory
-- Lowest Common Multiple (LCM)
-- Mathematics
-- Brute Force Optimization
-- Competitive Programming
-- Python
-- Algorithms
-- Problem Solving
-- Coding Interview Preparation
-- Logical Reasoning
