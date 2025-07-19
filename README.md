@@ -17,19 +17,19 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 7    | 2025-07-16 | Nine Divisors   | ✅Sieve of Eratosthenes, ✅Number Theory, ✅Math | `#Mathematics`, `#NumberTheory`, `#Primes`, `#Divisors` | [Code](./Daily-Problems/2025-07-16_Nine_Divisors.md)   |
 | 8    | 2025-07-17 | Power of K in Factorial of N   | ✅Prime Factorization, ✅Legendre’s Formula, ✅Number Theory | `#Mathematics`, `#NumberTheory`, `#PrimeFactorization`, `#Factorials`, `#Combinatorics` | [Code](./Daily-Problems/2025-07-17_power_of_k_in_factorial_of_n.md) |
 | 9    | 2025-07-18 | LCM Triplet                   | ✅Number Theory, ✅Brute Force Optimization, ✅LCM    | `#Mathematics`, `#NumberTheory`, `#LCM`, `#BruteForce`, `#Optimization` | [Code](./Daily-Problems/2025-07-18_LCM_Triplet.md)                  |
-
+| 10   | 2025-07-19 | Count Unique Vowel Strings       | ✅Strings, ✅Combinatorics, ✅Permutations       | `#Strings`, `#Combinatorics`, `#Permutations`, `#Counting`, `#SetTheory` | [Code](./Daily-Problems/2025-07-19_Count_Unique_Vowel_Strings.md) |
 ---
 
 ## 🧠 Topics Covered So Far (Table Format)
 
-| **Category**               | **Topics**                                   |
-|-----------------------------|-----------------------------------------------|
-| **String Techniques**       | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree) |
+| **Category**                 | **Topics**                                   |
+|-------------------------------|-----------------------------------------------|
+| **String Techniques**         | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree) |
 | **Mathematics & Number Theory** | ✅ Mathematical Validation <br> ✅ Modulo Arithmetic (Large Numbers) <br> ✅ Number Theory <br> ✅ Divisors Counting <br> ✅ Sieve of Eratosthenes <br> ✅ Prime Factorization <br> ✅ Legendre’s Formula (Counting Prime Power in Factorials) |
-| **Dynamic Programming (DP)** | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations |
-| **Algorithmic Approaches**   | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation |
+| **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations |
+| **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation |
+| **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory |
 ---
-
 ## 🎯 Goal
 
 - 🔥 Stay consistent solving problems daily
