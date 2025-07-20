@@ -18,8 +18,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 8    | 2025-07-17 | Power of K in Factorial of N   | ✅Prime Factorization, ✅Legendre’s Formula, ✅Number Theory | `#Mathematics`, `#NumberTheory`, `#PrimeFactorization`, `#Factorials`, `#Combinatorics` | [Code](./Daily-Problems/2025-07-17_power_of_k_in_factorial_of_n.md) |
 | 9    | 2025-07-18 | LCM Triplet                   | ✅Number Theory, ✅Brute Force Optimization, ✅LCM    | `#Mathematics`, `#NumberTheory`, `#LCM`, `#BruteForce`, `#Optimization` | [Code](./Daily-Problems/2025-07-18_LCM_Triplet.md)                  |
 | 10   | 2025-07-19 | Count Unique Vowel Strings       | ✅Strings, ✅Combinatorics, ✅Permutations       | `#Strings`, `#Combinatorics`, `#Permutations`, `#Counting`, `#SetTheory` | [Code](./Daily-Problems/2025-07-19_Count_Unique_Vowel_Strings.md) |
+| 11   | 2025-07-20 | Count Numbers Containing Specific Digits | ✅Strings, ✅Combinatorics, ✅Counting Principle | `#Strings`, `#Combinatorics`, `#Permutations`, `#Counting`, `#SetTheory` | [Code](./Daily-Problems/2025-07-20_Count_Numbers_Containing_Specific_Digits.md) |
 ---
-
 ## 🧠 Topics Covered So Far (Table Format)
 
 | **Category**                 | **Topics**                                   |
@@ -28,7 +28,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Mathematics & Number Theory** | ✅ Mathematical Validation <br> ✅ Modulo Arithmetic (Large Numbers) <br> ✅ Number Theory <br> ✅ Divisors Counting <br> ✅ Sieve of Eratosthenes <br> ✅ Prime Factorization <br> ✅ Legendre’s Formula (Counting Prime Power in Factorials) |
 | **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations |
 | **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation |
-| **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory |
+| **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems |
 ---
 ## 🎯 Goal
 
