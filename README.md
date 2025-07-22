@@ -20,6 +20,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 10   | 2025-07-19 | Count Unique Vowel Strings       | ✅Strings, ✅Combinatorics, ✅Permutations       | `#Strings`, `#Combinatorics`, `#Permutations`, `#Counting`, `#SetTheory` | [Code](./Daily-Problems/2025-07-19_Count_Unique_Vowel_Strings.md) |
 | 11   | 2025-07-20 | Count Numbers Containing Specific Digits | ✅Strings, ✅Combinatorics, ✅Counting Principle | `#Strings`, `#Combinatorics`, `#Permutations`, `#Counting`, `#SetTheory` | [Code](./Daily-Problems/2025-07-20_Count_Numbers_Containing_Specific_Digits.md) |
 | 12   | 2025-07-21 | Count Coprimes | ✅Number Theory, ✅GCD, ✅Inclusion-Exclusion | `#Mathematics`, `#NumberTheory`, `#GCD`, `#Coprime`, `#InclusionExclusion` | [Code](./Daily-Problems/2025-07-21_Count_Coprimes.md) |
+| 13   | 2025-07-22 | Smallest Positive Missing Number | ✅Array, ✅Index Mapping, ✅Cyclic Sort | `#Array`, `#IndexMapping`, `#CyclicSort`, `#MissingNumber` | [Code](./Daily-Problems/2025-07-22_Smallest_Positive_Missing_Number.md) | today |
+
 ---
 ## 🧠 Topics Covered So Far (Table Format)
 
@@ -30,7 +32,9 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations |
 | **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation |
 | **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems |
+| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems |
 ---
+
 
 ## 🎯 Goal
 
