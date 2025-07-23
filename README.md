@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 14   | 23-07-2025 | Sum of Subarrays | ✅Prefix Contribution | `#Array`, `#Subarrays`, `#Mathematics`, `#PrefixContribution` | [Code](./Daily-Problems/2025-07-23_Sum_of_Subarrays.md) |
 | 13   | 22-07-2025 | Smallest Positive Missing Number            | ✅Array, ✅Index Mapping, ✅Cyclic Sort | `#Array`, `#IndexMapping`, `#CyclicSort`, `#MissingNumber` | [Code](./Daily-Problems/2025-07-22_Smallest_Positive_Missing_Number.md) |
 | 12   | 21-07-2025 | Count Coprimes                               | ✅Number Theory, ✅GCD, ✅Inclusion-Exclusion | `#Mathematics`, `#NumberTheory`, `#GCD`, `#Coprime`, `#InclusionExclusion` | [Code](./Daily-Problems/2025-07-21_Count_Coprimes.md) |
 | 11   | 20-07-2025 | Count Numbers Containing Specific Digits      | ✅Strings, ✅Combinatorics, ✅Counting Principle | `#Strings`, `#Combinatorics`, `#Permutations`, `#Counting`, `#SetTheory` | [Code](./Daily-Problems/2025-07-20_Count_Numbers_Containing_Specific_Digits.md) |
@@ -32,7 +33,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations |
 | **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation |
 | **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems |
-| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems |
+| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution |
+
 ---
 
 
