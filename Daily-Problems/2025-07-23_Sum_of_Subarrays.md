@@ -48,8 +48,8 @@ Each element `arr[i]` appears in several subarrays:
 - It contributes to all subarrays where it is between start `j` and end `k` such that `j ≤ i ≤ k`.
 - That count is `(i + 1) * (n - i)` → total subarrays including `arr[i]`
 
-So the total contribution is:  
-total += arr[i] * (i + 1) * (n - i)
+- So the total contribution is:  
+- total += arr[i] * (i + 1) * (n - i)
 ---
 ## ⏱️ Time & Space Complexity
 
