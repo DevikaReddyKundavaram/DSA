@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 15 | 24-07-2025 | Last Moment Before All Ants Fall Out | ✅ Ant Fall Simulation | `#Greedy`, `#Simulation`, `#Brainteaser`, `#Arrays`, `#TwoPointers`, `#1DMovement` | [Code](./Daily-Problems/2025-07-24_LastMomentBeforeAllAntsFallOut.md) |
 | 14   | 23-07-2025 | Sum of Subarrays | ✅Prefix Contribution | `#Array`, `#Subarrays`, `#Mathematics`, `#PrefixContribution` | [Code](./Daily-Problems/2025-07-23_Sum_of_Subarrays.md) |
 | 13   | 22-07-2025 | Smallest Positive Missing Number            | ✅Array, ✅Index Mapping, ✅Cyclic Sort | `#Array`, `#IndexMapping`, `#CyclicSort`, `#MissingNumber` | [Code](./Daily-Problems/2025-07-22_Smallest_Positive_Missing_Number.md) |
 | 12   | 21-07-2025 | Count Coprimes                               | ✅Number Theory, ✅GCD, ✅Inclusion-Exclusion | `#Mathematics`, `#NumberTheory`, `#GCD`, `#Coprime`, `#InclusionExclusion` | [Code](./Daily-Problems/2025-07-21_Count_Coprimes.md) |
@@ -24,17 +25,17 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 1    | 10-07-2025 | Longest Word With All Prefixes Present           | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` | [Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
 
 ---
-## 🧠 Topics Covered So Far (Table Format)
+##Topics Covered:
 
-| **Category**                 | **Topics**                                   |
-|-------------------------------|-----------------------------------------------|
-| **String Techniques**         | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree) |
+| **Category**                   | **Topics**                                                                                                                                              |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **String Techniques**          | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree)                                          |
 | **Mathematics & Number Theory** | ✅ Mathematical Validation <br> ✅ Modulo Arithmetic (Large Numbers) <br> ✅ Number Theory <br> ✅ Divisors Counting <br> ✅ Sieve of Eratosthenes <br> ✅ Prime Factorization <br> ✅ Legendre’s Formula (Counting Prime Power in Factorials) <br> ✅ Coprime Counting (Inclusion-Exclusion Principle) |
-| **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations |
-| **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation |
-| **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems |
-| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution |
-
+| **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations                                                                |
+| **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation                                                       |
+| **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems                                   |
+| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution                                                          |
+| **Simulation & Brainteasers**  | ✅ Last Moment Simulation <br> ✅ Direction Reversal Logic <br> ✅ 1D Movement Problems <br> ✅ Collision-Free Modeling                                   |
 ---
 
 
@@ -43,8 +44,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 - 🔥 Stay consistent solving problems daily
 - 📚 Build a reference for interviews & revision
 - 📂 Showcase clean, readable code & explanation
-- 🚀 Prepare for top product companies (e.g., NVIDIA, ISRO)
-
+- 🚀 Prepare for top companies 
 ---
 
 ## 🔜 What's Next?
