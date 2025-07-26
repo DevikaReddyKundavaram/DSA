@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 17 | 26-07-2025 | Majority Element II | ✅ Boyer-Moore Extended | `#Array`, `#Hashing`, `#BoyerMooreVotingAlgorithm`, `#Greedy`, `#FrequencyCounting`, `#MathBased` | [Code](./Daily-Problems/2025-07-26_MajorityElementII.md) |
 | 16 | 25-07-2025 | Max Circular Subarray Sum | ✅ Kadane with Circular Logic | `#KadaneAlgorithm`, `#CircularArray`, `#DynamicProgramming`, `#SubarraySum`, `#Arrays` | [Code](./Daily-Problems/2025-07-25_MaxCircularSubarraySum.md) |
 | 15 | 24-07-2025 | Last Moment Before All Ants Fall Out | ✅ Ant Fall Simulation | `#Greedy`, `#Simulation`, `#Brainteaser`, `#Arrays`, `#TwoPointers`, `#1DMovement` | [Code](./Daily-Problems/2025-07-24_LastMomentBeforeAllAntsFallOut.md) |
 | 14   | 23-07-2025 | Sum of Subarrays | ✅Prefix Contribution | `#Array`, `#Subarrays`, `#Mathematics`, `#PrefixContribution` | [Code](./Daily-Problems/2025-07-23_Sum_of_Subarrays.md) |
@@ -33,9 +34,9 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **String Techniques**          | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree)                                          |
 | **Mathematics & Number Theory** | ✅ Mathematical Validation <br> ✅ Modulo Arithmetic (Large Numbers) <br> ✅ Number Theory <br> ✅ Divisors Counting <br> ✅ Sieve of Eratosthenes <br> ✅ Prime Factorization <br> ✅ Legendre’s Formula (Counting Prime Power in Factorials) <br> ✅ Coprime Counting (Inclusion-Exclusion Principle) |
 | **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations <br> ✅ Circular Kadane (Wraparound Subarray Logic)              |
-| **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation                                                       |
+| **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation <br> ✅ Boyer-Moore Voting Algorithm (Extended)|
 | **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems                                   |
-| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution <br> ✅ Max Circular Subarray Sum (Kadane’s Extension)     |
+| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution <br> ✅ Max Circular Subarray Sum (Kadane’s Extension) <br> ✅ Majority Element (n/3 Condition) <br> ✅ Frequency-Based Counting     |
 | **Simulation & Brainteasers**  | ✅ Last Moment Simulation <br> ✅ Direction Reversal Logic <br> ✅ 1D Movement Problems <br> ✅ Collision-Free Modeling                                    |
 ---
 
