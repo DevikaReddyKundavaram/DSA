@@ -23,20 +23,21 @@ You are given a 2D matrix `mat[][]` of size `n x m`. Your task is to **modify** 
 
 ## 🔄 Example
 
-### Input:
 ```python
+Input:
 mat = [
     [1, 2, 0],
     [4, 5, 6],
     [7, 0, 9]
 ]
-```
-### Output:
+
+Output:
 [
     [0, 0, 0],
     [4, 0, 0],
     [0, 0, 0]
 ]
+```
 ---
 ## 🧠 Algorithm
 
