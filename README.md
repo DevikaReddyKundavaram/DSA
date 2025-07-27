@@ -28,6 +28,64 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 1    | 10-07-2025 | Longest Word With All Prefixes Present           | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` | [Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
 
 ---
+## 🧠 Topics Covered
+
+### 📚 String Techniques
+- 🟢 ✅ Strings
+- 🟢 ✅ Prefix Checking
+- 🟢 ✅ Binary Strings
+- 🟡 ✅ Subsequence Patterns
+- 🟡 ✅ Trie (Prefix Tree)
+
+### 🔢 Mathematics & Number Theory
+- 🟡 ✅ Mathematical Validation
+- 🟡 ✅ Modulo Arithmetic (Large Numbers)
+- 🟡 ✅ Number Theory
+- 🟡 ✅ Divisors Counting
+- 🔴 ✅ Sieve of Eratosthenes
+- 🔴 ✅ Prime Factorization
+- 🔴 ✅ Legendre’s Formula
+- 🔴 ✅ Coprime Counting (Inclusion-Exclusion Principle)
+
+### 🔁 Dynamic Programming (DP)
+- 🟢 ✅ 1D DP (Tabulation)
+- 🟡 ✅ Matrix DP
+- 🟡 ✅ Grid Traversal
+- 🔴 ✅ Recurrence Relations
+- 🔴 ✅ Circular Kadane (Wraparound Subarray Logic)
+
+### ⚙️ Algorithmic Approaches
+- 🟢 ✅ Greedy Logic
+- 🟡 ✅ Binary Search (Bisect)
+- 🟡 ✅ Complement Counting
+- 🟡 ✅ Bit Manipulation
+- 🔴 ✅ Boyer-Moore Voting Algorithm (Extended)
+- 🟡 ✅ In-Place Marker Method
+- 🟡 ✅ Simulation
+- 🟡 ✅ Space Optimization
+
+### 🔣 Combinatorics & Counting
+- 🟢 ✅ Combinatorics
+- 🟡 ✅ Permutations
+- 🟡 ✅ Counting Principle
+- 🟡 ✅ Set Theory
+- 🔴 ✅ Digit Based Counting Problems
+
+### 📊 Array Techniques
+- 🟢 ✅ Index Mapping
+- 🟢 ✅ Cyclic Sort
+- 🟢 ✅ Missing Number Problems
+- 🟡 ✅ Prefix Contribution
+- 🔴 ✅ Max Circular Subarray Sum (Kadane’s Extension)
+- 🔴 ✅ Majority Element (n/3 Condition)
+- 🟡 ✅ Frequency-Based Counting
+- 🟡 ✅ Matrix Zeroing Logic
+
+### 🧠 Simulation & Brainteasers
+- 🟢 ✅ Last Moment Simulation
+- 🟡 ✅ Direction Reversal Logic
+- 🟡 ✅ 1D Movement Problems
+- 🔴 ✅ Collision-Free Modeling
 ## 🧠 Topics Covered:
 
 | **Category**                   | **Topics**                                                                                                                                              |
