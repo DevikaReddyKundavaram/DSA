@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 19 | 28-07-2025 | Make Matrix Beautiful | ✅ Row/Column Sum Greedy | `#Matrix`, `#Greedy`, `#Optimization`, `#2d-array`, `#Simulation`, `#MinimumOperations` | [Code](./Daily-Problems/2025-07-28_Make_Matrix_Beautiful.md) |
 | 18 | 27-07-2025 | Set Matrix Zeroes | ✅ In-Place Marker Method | `#Matrix`, `#Array`, `#InPlace`, `#Greedy`, `#Simulation`, `#SpaceOptimization` | [Code](./Daily-Problems/2025-07-27_Set_Matrix_Zeroes.md) |
 | 17 | 26-07-2025 | Majority Element II | ✅ Boyer-Moore Extended | `#Array`, `#Hashing`, `#BoyerMooreVotingAlgorithm`, `#Greedy`, `#FrequencyCounting`, `#MathBased` | [Code](./Daily-Problems/2025-07-26_MajorityElementII.md) |
 | 16 | 25-07-2025 | Max Circular Subarray Sum | ✅ Kadane with Circular Logic | `#KadaneAlgorithm`, `#CircularArray`, `#DynamicProgramming`, `#SubarraySum`, `#Arrays` | [Code](./Daily-Problems/2025-07-25_MaxCircularSubarraySum.md) |
