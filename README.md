@@ -8,7 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
-| 19 | 28-07-2025 | Make Matrix Beautiful | ✅ Row/Column Sum Greedy | `#Matrix`, `#Greedy`, `#Optimization`, `#2d-array`, `#Simulation`, `#MinimumOperations` | [Code](./Daily-Problems/2025-07-28_Make_Matrix_Beautiful.md) |
+| 19 | 28-07-2025 | Make Matrix Beautiful | ✅ Row/Column Sum Greedy | `#Matrix`, `#Greedy`, `#Optimization`, `#2d-array`, `#Simulation`, `#MinimumOperations` | [Code](./Daily-Problems/2025-07-28-make-matrix-beautiful.md) |
 | 18 | 27-07-2025 | Set Matrix Zeroes | ✅ In-Place Marker Method | `#Matrix`, `#Array`, `#InPlace`, `#Greedy`, `#Simulation`, `#SpaceOptimization` | [Code](./Daily-Problems/2025-07-27_Set_Matrix_Zeroes.md) |
 | 17 | 26-07-2025 | Majority Element II | ✅ Boyer-Moore Extended | `#Array`, `#Hashing`, `#BoyerMooreVotingAlgorithm`, `#Greedy`, `#FrequencyCounting`, `#MathBased` | [Code](./Daily-Problems/2025-07-26_MajorityElementII.md) |
 | 16 | 25-07-2025 | Max Circular Subarray Sum | ✅ Kadane with Circular Logic | `#KadaneAlgorithm`, `#CircularArray`, `#DynamicProgramming`, `#SubarraySum`, `#Arrays` | [Code](./Daily-Problems/2025-07-25_MaxCircularSubarraySum.md) |
@@ -29,7 +29,6 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 1    | 10-07-2025 | Longest Word With All Prefixes Present           | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` | [Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
 
 ---
- 
 ## 🧠 Topics Covered:
 
 | **Category**                   | **Topics**                                                                                                                                              |
@@ -37,10 +36,10 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **String Techniques**          | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree)                                          |
 | **Mathematics & Number Theory** | ✅ Mathematical Validation <br> ✅ Modulo Arithmetic (Large Numbers) <br> ✅ Number Theory <br> ✅ Divisors Counting <br> ✅ Sieve of Eratosthenes <br> ✅ Prime Factorization <br> ✅ Legendre’s Formula (Counting Prime Power in Factorials) <br> ✅ Coprime Counting (Inclusion-Exclusion Principle) |
 | **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations <br> ✅ Circular Kadane (Wraparound Subarray Logic)              |
-| **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation <br> ✅ Boyer-Moore Voting Algorithm (Extended) <br> ✅ In-Place Marker Method <br> ✅ Simulation <br> ✅ Space Optimization |
+| **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation <br> ✅ Boyer-Moore Voting Algorithm (Extended) <br> ✅ In-Place Marker Method <br> ✅ Simulation <br> ✅ Space Optimization <br> ✅ Row/Column Sum Optimization |
 | **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems                                   |
-| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution <br> ✅ Max Circular Subarray Sum (Kadane’s Extension) <br> ✅ Majority Element (n/3 Condition) <br> ✅ Frequency-Based Counting <br> ✅ Matrix Zeroing Logic |
-| **Simulation & Brainteasers**  | ✅ Last Moment Simulation <br> ✅ Direction Reversal Logic <br> ✅ 1D Movement Problems <br> ✅ Collision-Free Modeling                                    |
+| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution <br> ✅ Max Circular Subarray Sum (Kadane’s Extension) <br> ✅ Majority Element (n/3 Condition) <br> ✅ Frequency-Based Counting <br> ✅ Matrix Zeroing Logic <br> ✅ 2D Row-Column Balancing |
+| **Simulation & Brainteasers**  | ✅ Last Moment Simulation <br> ✅ Direction Reversal Logic <br> ✅ 1D Movement Problems <br> ✅ Collision-Free Modeling <br> ✅ Grid Adjustment Simulation |
 ---
 
 
