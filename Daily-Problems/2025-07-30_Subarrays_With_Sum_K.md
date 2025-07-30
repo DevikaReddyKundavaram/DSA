@@ -1,10 +1,7 @@
 # 📘 Problem: Subarrays with Sum K
 
-**Difficulty:** Medium  
-**Points:** 4  
-**Tags:** `#Array`, `#PrefixSum`, `#HashMap`, `#SubarraySum`, `#SlidingWindowLike`, `#CountProblems`
 
----
+
 
 ## 📜 Problem Statement
 
