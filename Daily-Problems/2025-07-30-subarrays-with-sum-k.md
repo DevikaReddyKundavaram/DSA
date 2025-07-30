@@ -1,8 +1,5 @@
 # 📘 Problem: Subarrays with Sum K
 
-
-
-
 ## 📜 Problem Statement
 
 Given an unsorted array `arr[]` of integers, find the number of subarrays whose sum is exactly equal to a given number `k`.
