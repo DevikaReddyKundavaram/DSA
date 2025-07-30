@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 21 | 30-07-2025 | Subarrays with Sum K | ✅ Prefix Sum + HashMap | `#PrefixSum`, `#HashMap`, `#Subarray`, `#Array`, `#Counting`, `#SlidingWindowVariant`, `#Optimization`, `#Intermediate`, `#FrequencyMap` | [Code](./Daily-Problems/2025-07-30-subarrays-with-sum-k.md) |
 | 20 | 29-07-2025 | ASCII Range Sum | ✅ Index Tracking & ASCII Summation | `#String`, `#ASCII`, `#Greedy`, `#RangeQuery`, `#Hashing`, `#Simulation` | [Code](./Daily-Problems/2025-07-29_ASCII_Range_Sum.md) |
 | 19 | 28-07-2025 | Make Matrix Beautiful | ✅ Row/Column Sum Greedy | `#Matrix`, `#Greedy`, `#Optimization`, `#2d-array`, `#Simulation`, `#MinimumOperations` | [Code](./Daily-Problems/2025-07-28-make-matrix-beautiful.md) |
 | 18 | 27-07-2025 | Set Matrix Zeroes | ✅ In-Place Marker Method | `#Matrix`, `#Array`, `#InPlace`, `#Greedy`, `#Simulation`, `#SpaceOptimization` | [Code](./Daily-Problems/2025-07-27_Set_Matrix_Zeroes.md) |
@@ -34,13 +35,13 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | **Category**                    | **Topics**                                                                                                                                              |
 |--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **String Techniques**          | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree) <br> ✅ First/Last Occurrence Indexing <br> ✅ ASCII-Based Logic |
-| **Mathematics & Number Theory**| ✅ Mathematical Validation <br> ✅ Modulo Arithmetic (Large Numbers) <br> ✅ Number Theory <br> ✅ Divisors Counting <br> ✅ Sieve of Eratosthenes <br> ✅ Prime Factorization <br> ✅ Legendre’s Formula (Counting Prime Power in Factorials) <br> ✅ Coprime Counting (Inclusion-Exclusion Principle) |
-| **Dynamic Programming (DP)**   | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations <br> ✅ Circular Kadane (Wraparound Subarray Logic)              |
-| **Algorithmic Approaches**     | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation <br> ✅ Boyer-Moore Voting Algorithm (Extended) <br> ✅ In-Place Marker Method <br> ✅ Simulation <br> ✅ Space Optimization <br> ✅ Row/Column Sum Optimization <br> ✅ Range-Based Summation |
-| **Combinatorics & Counting**   | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems                                   |
-| **Array Techniques**           | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution <br> ✅ Max Circular Subarray Sum (Kadane’s Extension) <br> ✅ Majority Element (n/3 Condition) <br> ✅ Frequency-Based Counting <br> ✅ Matrix Zeroing Logic <br> ✅ 2D Row-Column Balancing |
-| **Simulation & Brainteasers**  | ✅ Last Moment Simulation <br> ✅ Direction Reversal Logic <br> ✅ 1D Movement Problems <br> ✅ Collision-Free Modeling <br> ✅ Grid Adjustment Simulation <br> ✅ Character Range Simulation |
+| **String Techniques**           | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree) <br> ✅ First/Last Occurrence Indexing <br> ✅ ASCII-Based Logic |
+| **Mathematics & Number Theory** | ✅ Mathematical Validation <br> ✅ Modulo Arithmetic (Large Numbers) <br> ✅ Number Theory <br> ✅ Divisors Counting <br> ✅ Sieve of Eratosthenes <br> ✅ Prime Factorization <br> ✅ Legendre’s Formula (Counting Prime Power in Factorials) <br> ✅ Coprime Counting (Inclusion-Exclusion Principle) <br> ✅ Cumulative Sum Logic |
+| **Dynamic Programming (DP)**    | ✅ 1D DP (Tabulation) <br> ✅ Matrix DP <br> ✅ Grid Traversal <br> ✅ Recurrence Relations <br> ✅ Circular Kadane (Wraparound Subarray Logic)              |
+| **Algorithmic Approaches**      | ✅ Greedy Logic <br> ✅ Binary Search (Bisect) <br> ✅ Complement Counting <br> ✅ Bit Manipulation <br> ✅ Boyer-Moore Voting Algorithm (Extended) <br> ✅ In-Place Marker Method <br> ✅ Simulation <br> ✅ Space Optimization <br> ✅ Row/Column Sum Optimization <br> ✅ Range-Based Summation <br> ✅ Prefix Sum with Hashing |
+| **Combinatorics & Counting**    | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems                                   |
+| **Array Techniques**            | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution <br> ✅ Max Circular Subarray Sum (Kadane’s Extension) <br> ✅ Majority Element (n/3 Condition) <br> ✅ Frequency-Based Counting <br> ✅ Matrix Zeroing Logic <br> ✅ 2D Row-Column Balancing <br> ✅ Subarray Sum with HashMap |
+| **Simulation & Brainteasers**   | ✅ Last Moment Simulation <br> ✅ Direction Reversal Logic <br> ✅ 1D Movement Problems <br> ✅ Collision-Free Modeling <br> ✅ Grid Adjustment Simulation <br> ✅ Character Range Simulation |
 ---
 
 
