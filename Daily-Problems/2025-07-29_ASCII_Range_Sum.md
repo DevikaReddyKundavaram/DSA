@@ -133,13 +133,4 @@ class Solution:
 
 ## Tags
 
-`string`  
-`ascii`  
-`hashing`  
-`character-counting`  
-`range-query`  
-`greedy`  
-`dictionary`  
-`two-pointer`  
-`string-analysis`  
-`simulation`
+`#string` ,`#ascii`  ,`#hashing` ,`#character-counting`  ,`#range-query`  ,#`greedy`  ,`#dictionary`  ,`#two-pointer`  ,`#string-analysis`  ,`#simulation`
