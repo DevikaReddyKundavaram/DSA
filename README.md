@@ -59,12 +59,9 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 ## 🔜 What's Next?
 
-- Add more problems daily from GFG/LeetCode
+- Add more problems daily from GFG
 - Cover other categories: Arrays, DP, Graphs, Trees
-- Use Python & Java for bilingual strength
-
-
-
+  
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devika-reddy-kundavaram-bb3a0122a/)
