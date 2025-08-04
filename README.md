@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 26 | 04-08-2025 | Maximum Sum Rectangle | ✅ Kadane’s + 2D Prefix Reduction | `#KadaneAlgorithm`, `#DynamicProgramming`, `#SubmatrixSum`, `#2DMatrix`, `#PrefixSum2D`, `#Greedy`, `#Optimization`, `#GridBasedProblems` | [Code](./Daily-Problems/2025-08-04-maximum-sum-rectangle.md) |
 | 25 | 03-08-2025 | 2D Difference Array | ✅ Prefix Sum + Difference Matrix | `#2DDifferenceArray`, `#PrefixSum`, `#MatrixManipulation`, `#RangeUpdate`, `#EfficientUpdates`, `#AdvancedArrayTechniques`, `#InterviewPrep` | [Code](./Daily-Problems/2025-08-03-2d-difference-array.md) |
 | 24 | 02-08-2025 | Longest Subarray with Majority Greater than K | ✅ Prefix Sum + Hash Map | `#PrefixSum`, `#HashMap`, `#Subarrays`, `#MajorityElement`, `#Greedy`, `#ArrayProblems`, `#InterviewPrep` | [Code](./Daily-Problems/2025-08-02_longest_subarray_majority_greater_than_k.md) |
 | 23 | 01-08-2025 | Balanced Vowel-Consonant Subarrays | ✅ Prefix Sum + Hash Map | `#PrefixSum`, `#FrequencyMap`, `#Strings`, `#BalancedStrings`, `#Subarrays`, `#Hashing`, `#InterviewPrep` | [Code](./Daily-Problems/2025-08-01-balanced-vowel-consonant-subarrays.md) |
@@ -36,6 +37,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 ---
 ## 🧠 Topics Covered:
+
 | **Category**                    | **Topics**                                                                                                                                              |
 |--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **String Techniques**           | ✅ Strings <br> ✅ Prefix Checking <br> ✅ Binary Strings <br> ✅ Subsequence Patterns <br> ✅ Trie (Prefix Tree) <br> ✅ First/Last Occurrence Indexing <br> ✅ ASCII-Based Logic <br> ✅ Vowel-Consonant Balance |
@@ -45,7 +47,6 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Combinatorics & Counting**    | ✅ Combinatorics <br> ✅ Permutations <br> ✅ Counting Principle <br> ✅ Set Theory <br> ✅ Digit Based Counting Problems <br> ✅ Range Frequency Counting |
 | **Array Techniques**            | ✅ Index Mapping <br> ✅ Cyclic Sort <br> ✅ Missing Number Problems <br> ✅ Prefix Contribution <br> ✅ Max Circular Subarray Sum (Kadane’s Extension) <br> ✅ Majority Element (n/3 Condition) <br> ✅ Frequency-Based Counting <br> ✅ Matrix Zeroing Logic <br> ✅ 2D Row-Column Balancing <br> ✅ Subarray Sum with HashMap <br> ✅ Subarray Majority Detection <br> ✅ 2D Difference Matrix Updates |
 | **Simulation & Brainteasers**   | ✅ Last Moment Simulation <br> ✅ Direction Reversal Logic <br> ✅ 1D Movement Problems <br> ✅ Collision-Free Modeling <br> ✅ Grid Adjustment Simulation <br> ✅ Character Range Simulation <br> ✅ Interval Merging Simulation |
-
 ---
 
 
