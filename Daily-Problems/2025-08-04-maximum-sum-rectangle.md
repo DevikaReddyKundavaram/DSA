@@ -1,12 +1,5 @@
 # 🟦 Problem: Maximum Sum Rectangle in a 2D Matrix
-
-**Difficulty**: Hard  
-**Accuracy**: 49.78%  
-**Points**: 8  
-**Category**: 2D Arrays, Kadane’s Algorithm, Dynamic Programming
-
 ---
-
 ## 📘 Problem Statement
 
 Given a 2D matrix `mat[][]` of size `n × m`, find the **maximum sum** of any submatrix in the matrix.
