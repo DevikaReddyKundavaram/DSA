@@ -44,10 +44,7 @@ aabcdaabc
 4
 **Explanation:** The string `"aabc"` is the longest prefix and suffix.
 ```
----
-**Explanation:** `"aaa"` is the longest prefix and suffix.
 
----
 
 ## 📚 Constraints
 - `1 ≤ s.length ≤ 10^6`
