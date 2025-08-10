@@ -34,7 +34,7 @@ Input: s = "abbaeae" Output: 4 Explanation: "bb", "abba", "aea", "eae"
 
 ## 🔹 Constraints
 
-2 ≤ s.size() ≤ 5 × 10^3 s contains only lowercase English letters
+- 2 ≤ s.size() ≤ 5 × 10^3 s contains only lowercase English letters
 
 ---
 
