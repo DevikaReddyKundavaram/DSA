@@ -101,7 +101,7 @@ class Solution:
             ans = max(ans, left_max[i] + right_max[i + 1])
         return ans
 
-
+```
 ---
 
 ## 📌 Applications
