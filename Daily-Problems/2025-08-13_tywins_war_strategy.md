@@ -15,11 +15,16 @@ Find the **minimum total number of soldiers to add** (across all troops) so that
 ## 🧪 Examples
 ```text
 Example 1
-Input:  arr = [5, 6, 3, 2, 1], k = 2 Output: 1 Explanation: Already lucky: 6, 2  → count = 2. Target = ceil(5/2) = 3, need 1 more. Cheapest fix is 1 → make 1 → 2. Total added = 1.
+Input:  arr = [5, 6, 3, 2, 1]
+,k = 2
+Output: 1
+Explanation: Already lucky: 6, 2  → count = 2. Target = ceil(5/2) = 3, need 1 more. Cheapest fix is 1 → make 1 → 2. Total added = 1.
 
 Example 2
 
-Input:  arr = [3, 5, 6, 7, 9, 10], k = 4 Output: 4 Explanation: Target = ceil(6/2) = 3. Additions needed per troop (to next multiple of 4): 3→1, 5→3, 6→2, 7→1, 9→3, 10→2. Pick the 3 smallest: 1 + 1 + 2 = 4.
+Input:  arr = [3, 5, 6, 7, 9, 10], k = 4
+Output: 4
+Explanation: Target = ceil(6/2) = 3. Additions needed per troop (to next multiple of 4): 3→1, 5→3, 6→2, 7→1, 9→3, 10→2. Pick the 3 smallest: 1 + 1 + 2 = 4.
 ```
 ---
 **Constrains**
