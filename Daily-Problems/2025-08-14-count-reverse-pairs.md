@@ -1,5 +1,4 @@
 # Count Reverse Pairs
----
 ## Problem Statement
 You are given an array `arr[]` of positive integers, find the count of **reverse pairs**.  
 A pair of indices `(i, j)` is said to be a **reverse pair** if:
