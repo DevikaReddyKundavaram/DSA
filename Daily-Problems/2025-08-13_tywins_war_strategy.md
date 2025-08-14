@@ -87,8 +87,8 @@ class Solution:
 - **Competitive Programming** – Classic greedy optimization scenario.
 ---
 ## 🏷️ Tags
-- '#GreedyAlgorithm'
-- '#Sorting'
-- '#Math'
-- '#Optimization'
-- '#ArrayManipulation'
+- `#GreedyAlgorithm`
+- `#Sorting`
+- `#Math`
+- `#Optimization`
+- `#ArrayManipulation`
