@@ -1,5 +1,5 @@
-## Count Reverse Pairs
-
+# Count Reverse Pairs
+---
 
 ## Problem Statement
 You are given an array `arr[]` of positive integers, find the count of **reverse pairs**.  
@@ -99,10 +99,10 @@ class Solution:
 - **Algorithm Learning** – Demonstrates divide-and-conquer with counting logic, reinforcing merge sort modifications.
 ---
 ## 🏷️ Tags
-'# DivideAndConquer',
-'#MergeSort',
-'#BinarySearch',
-'#Sorting',
-'#TwoPointers',
-'#AdvancedCounting'
-'#CompetitiveProgramming'
+`#DivideAndConquer`,
+`#MergeSort`,
+`#BinarySearch`,
+`#Sorting`,
+`#TwoPointers`,
+`#AdvancedCounting`,
+`#CompetitiveProgramming`
