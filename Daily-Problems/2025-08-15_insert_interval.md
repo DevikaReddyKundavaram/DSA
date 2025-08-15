@@ -13,35 +13,26 @@ Insert `newInterval` into `intervals` so that:
 ---
 # Examples 
 ```text
-### Example 1
-**Input:**
+Example 1:
+Input:
 intervals = [[1, 3], [4, 5], [6, 7], [8, 10]]
 newInterval = [5, 6]
-
-**Output:**
-
-[[1, 3], [4, 7], [8, 10]]
-
-**Explanation:**  
+Output:[[1, 3], [4, 7], [8, 10]]
+Explanation:
 The new interval `[5, 6]` overlaps with `[4, 5]` and `[6, 7]`.  
 Merged into `[4, 7]`.
-```
----
 
-### Example 2
-**Input:**
 
+Example 2:
+Input:
 intervals = [[1, 2], [3, 5], [6, 7], [8, 10], [12, 16]]
 newInterval = [4, 9]
-
-**Output:**
-
+Output:[[1, 2], [3, 10], [12, 16]]
 [[1, 2], [3, 10], [12, 16]]
-
-**Explanation:**  
+Explanation:
 Overlaps with `[3, 5]`, `[6, 7]`, and `[8, 10]`.  
 Merged into `[3, 10]`.
-
+```
 ---
 
 ## 🔒 Constraints
