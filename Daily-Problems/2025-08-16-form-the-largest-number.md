@@ -10,29 +10,20 @@ Given an array of integers `arr[]` representing non-negative integers, arrange t
 
 ### 🔹 Examples
 ```text
-#### Example 1:
-**Input:**  
-`arr = [3, 30, 34, 5, 9]`  
-**Output:**  
-`9534330`  
-**Explanation:**  
-Arrangement `[9, 5, 34, 3, 30]` forms the largest number.
+Example 1
+Input: arr[] = [3, 30, 34, 5, 9]
+Output: 9534330
+Explanation: Arrange as [9, 5, 34, 3, 30] to get the largest number.
 
-#### Example 2:
-**Input:**  
-`arr = [54, 546, 548, 60]`  
-**Output:**  
-`6054854654`  
-**Explanation:**  
-Arrangement `[60, 548, 546, 54]` forms the largest number.
+Example 2
+Input: arr[] = [54, 546, 548, 60]
+Output: 6054854654
+Explanation: Arrange as [60, 548, 546, 54] to get the largest number.
 
-#### Example 3:
-**Input:**  
-`arr = [3, 4, 6, 5, 9]`  
-**Output:**  
-`96543`  
-**Explanation:**  
-Arrangement `[9, 6, 5, 4, 3]` forms the largest number.
+Example 3
+Input: arr[] = [3, 4, 6, 5, 9]
+Output: 96543
+Explanation: Arrange as [9, 6, 5, 4, 3] to get the largest number.
 ```
 ---
 
