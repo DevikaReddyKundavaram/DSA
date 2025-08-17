@@ -44,7 +44,7 @@ class Solution:
         arr.sort(key=lambda num: abs(num - x))
         return arr
 
-
+```
 ---
 
 🧠 Applications
