@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 41 | 19-08-2025 | Farthest Smaller Right | ✅ Suffix Minima + Binary Search | `#BinarySearch`, `#Arrays`, `#SuffixMinima`, `#Greedy` | [Code](./Daily-Problems/2025-08-19_farthest-smaller-right.md) |
 | 40 | 18-08-2025 | Find H-Index | ✅ Sorting / Bucket Counting | `#Sorting`, `#Greedy`, `#CountingSort`, `#Arrays` | [Code](./Daily-Problems/2025-08-18_find-h-index.md) |
 | 39 | 17-08-2025 | Sort by Absolute Difference | ✅ Sorting by Custom Key (Absolute Difference) | `#Sorting`, `#Arrays`, `#CustomComparator` | [Code](./Daily-Problems/2025-08-17_sort-by-absolute-difference.md) |
 | 38 | 16-08-2025 | Form the Largest Number | ✅ Custom Sorting + Greedy | `#Sorting`, `#Greedy`, `#Strings` | [Code](./Daily-Problems/2025-08-16_form-largest-number.md) |
@@ -50,18 +51,92 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 1    | 10-07-2025 | Longest Word With All Prefixes Present           | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` | [Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
 
 ---
-## 🧠 Topics Covered:
-# Problem-Solving Topic List
+# 🧠 Problem-Solving Topics Covered
 
-| **Category** | **Topics** |
-|--------------|------------|
-| **String Techniques** | Strings, Prefix Checking, Binary Strings, Subsequence Patterns, Trie (Prefix Tree), First/Last Occurrence Indexing, ASCII-Based Logic, Vowel-Consonant Balance, Alphanumeric Filtering, Palindrome Checking, Palindrome Substrings (Expand Around Center), Symbol Parsing, Time String Parsing, KMP Prefix Function (Longest Prefix Suffix), Z-Algorithm, Pattern Periodicity, Prefix-Suffix Overlap, String Matching, Odd Length Palindromes, Manacher's Algorithm, **String Concatenation Ordering (Form Largest Number)**, **Custom Comparator in Strings** |
-| **Mathematics & Number Theory** | Mathematical Validation, Modulo Arithmetic (Large Numbers), Number Theory, Divisors Counting, Sieve of Eratosthenes, Prime Factorization, Legendre’s Formula (Counting Prime Power in Factorials), Coprime Counting (Inclusion-Exclusion Principle), Cumulative Sum Logic, Roman Numeral Conversion, Time to Seconds Conversion, **Modulo Arithmetic (Lucky Soldiers Problem)** |
-| **Dynamic Programming (DP)** | 1D DP (Tabulation), Matrix DP, Grid Traversal, Recurrence Relations, Circular Kadane (Wraparound Subarray Logic), Prefix/Suffix Maximum DP |
-| **Algorithmic Approaches** | Greedy Logic, Binary Search (Bisect), Complement Counting, Bit Manipulation, Boyer-Moore Voting Algorithm (Extended), In-Place Marker Method, Simulation, Space Optimization, Row/Column Sum Optimization, Range-Based Summation, Prefix Sum with Hashing, Line Sweep Algorithm, Difference Array, HashMap with Prefix Balance, Majority vs Minority Subarray Logic, 2D Range Update Optimization, Two-Pointer Traversal, Greedy Roman Parsing, Clock Difference Logic, Bitmasking + Set Representation, **Greedy Troop Selection Logic**, **Divide & Conquer**, **Modified Merge Sort**, **Interval Insertion & Merging**, **Custom Sorting for Largest Number**, **Sorting by Absolute Difference (Custom Key)**, **H-Index (Greedy + Counting Approach)** |
-| **Combinatorics & Counting** | Combinatorics, Permutations, Counting Principle, Set Theory, Digit Based Counting Problems, Range Frequency Counting, **Reverse Pair Counting** |
-| **Array Techniques** | Index Mapping, Cyclic Sort, Missing Number Problems, Prefix Contribution, Max Circular Subarray Sum (Kadane’s Extension), Majority Element (n/3 Condition), Frequency-Based Counting, Matrix Zeroing Logic, 2D Row-Column Balancing, Subarray Sum with HashMap, Subarray Majority Detection, 2D Difference Matrix Updates, Time Sorting |
-| **Simulation & Brainteasers** | Last Moment Simulation, Direction Reversal Logic, 1D Movement Problems, Collision-Free Modeling, Grid Adjustment Simulation, Character Range Simulation, Interval Merging Simulation, Edge Case Wrapping (Midnight Wraparound) |
+## 📌 String Techniques
+- 🔤 Basic Strings, Prefix Checking, Binary Strings  
+- 📏 Subsequence Patterns, First/Last Occurrence Indexing  
+- 🌲 Trie (Prefix Tree)  
+- 🔡 ASCII-Based Logic, Vowel-Consonant Balance, Alphanumeric Filtering  
+- 🔁 Palindrome Checking, Palindrome Substrings (Expand Around Center), Odd Length Palindromes, Manacher’s Algorithm  
+- 🔎 Symbol Parsing, Time String Parsing  
+- 🧮 KMP Prefix Function, Z-Algorithm, Pattern Periodicity, Prefix-Suffix Overlap  
+- 🔗 String Matching  
+- ✂️ **String Concatenation Ordering (Form Largest Number)**  
+- ⚖️ **Custom Comparator in Strings**  
+
+---
+
+## 📐 Mathematics & Number Theory
+- 🧾 Mathematical Validation, Modulo Arithmetic (Large Numbers)  
+- 🔢 Number Theory, Divisors Counting, Sieve of Eratosthenes, Prime Factorization  
+- 🧮 Legendre’s Formula (Prime Power in Factorials)  
+- 🔗 Coprime Counting (Inclusion-Exclusion Principle)  
+- ➕ Cumulative Sum Logic  
+- 🏛 Roman Numeral Conversion, Time to Seconds Conversion  
+- 🎖 **Modulo Arithmetic (Lucky Soldiers Problem)**  
+
+---
+
+## 🧩 Dynamic Programming (DP)
+- 📊 1D DP (Tabulation), Matrix DP  
+- 🌐 Grid Traversal  
+- 🔁 Recurrence Relations  
+- 🌀 Circular Kadane (Wraparound Subarray Logic)  
+- 🔼 Prefix/Suffix Maximum DP  
+
+---
+
+## ⚡ Algorithmic Approaches
+- 🧭 Greedy Logic, Two-Pointer Traversal  
+- 🔍 Binary Search (Bisect)  
+- 🔄 Complement Counting, Bit Manipulation  
+- 🗳 Boyer-Moore Voting Algorithm (Extended)  
+- 🪣 In-Place Marker Method  
+- 🎮 Simulation, Space Optimization  
+- ➗ Row/Column Sum Optimization, Range-Based Summation  
+- 📊 Prefix Sum with Hashing, Line Sweep Algorithm, Difference Array  
+- 🗂 HashMap with Prefix Balance, Majority vs Minority Subarray Logic  
+- 🖇 2D Range Update Optimization  
+- ⏰ Greedy Roman Parsing, Clock Difference Logic  
+- 🧩 Bitmasking + Set Representation  
+- ⚔️ **Greedy Troop Selection Logic**  
+- 🪓 **Divide & Conquer**  
+- 🔀 **Modified Merge Sort**  
+- 📌 **Interval Insertion & Merging**  
+- 🧾 **Custom Sorting for Largest Number**  
+- 📐 **Sorting by Absolute Difference (Custom Key)**  
+- 🎓 **H-Index (Greedy + Counting Approach)**  
+- 🔥 **Farthest Smaller Right (Binary Search + Suffix Min Array)**  
+
+---
+
+## 🔢 Combinatorics & Counting
+- 🎲 Combinatorics, Permutations, Counting Principle, Set Theory  
+- 🔢 Digit Based Counting Problems, Range Frequency Counting  
+- 🔄 **Reverse Pair Counting**  
+
+---
+
+## 🧮 Array Techniques
+- 🗺 Index Mapping, Cyclic Sort, Missing Number Problems  
+- ➕ Prefix Contribution  
+- 🌀 Max Circular Subarray Sum (Kadane’s Extension)  
+- 👥 Majority Element (n/3 Condition)  
+- 📊 Frequency-Based Counting  
+- 🧩 Matrix Zeroing Logic, 2D Row-Column Balancing  
+- 📈 Subarray Sum with HashMap, Subarray Majority Detection  
+- 🗂 2D Difference Matrix Updates  
+- ⏳ Time Sorting  
+
+---
+
+## 🎲 Simulation & Brainteasers
+- 🕒 Last Moment Simulation, Direction Reversal Logic  
+- ↔️ 1D Movement Problems, Collision-Free Modeling  
+- 🏗 Grid Adjustment Simulation, Character Range Simulation  
+- 🔗 Interval Merging Simulation  
+- 🌙 Edge Case Wrapping (Midnight Wraparound)  
 
 
 ---
