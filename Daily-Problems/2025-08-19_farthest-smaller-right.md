@@ -62,19 +62,16 @@ class Solution:
         n = len(arr)
         ans = [-1] * n
 
-        # Step 1: Build suffix minima array
         suff = arr.copy()
         for i in range(n - 2, -1, -1):
             suff[i] = min(arr[i], suff[i + 1])
-
-        # Step 2: Binary search for farthest smaller
         for i in range(n):
             lo, hi, res = i + 1, n - 1, -1
             while lo <= hi:
                 mid = (lo + hi) // 2
                 if suff[mid] < arr[i]:
                     res = mid
-                    lo = mid + 1  # go farther right
+                    lo = mid + 1  
                 else:
                     hi = mid - 1
             ans[i] = res
