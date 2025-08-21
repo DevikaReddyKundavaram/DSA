@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 43 | 21-08-2025 | Maximize the Minimum Difference | ✅ Greedy Placement + Binary Search on Answer | `#BinarySearch`, `#Greedy`, `#Arrays`, `#Placement` | [Code](./Daily-Problems/2025-08-21_maximize-min-diff.md) |
 | 42 | 20-08-2025 | Search in Fully Rotated Sorted 2D Matrix | ✅ Flattened Index + Modified Binary Search | `#BinarySearch`, `#2DMatrix`, `#Rotation`, `#Searching` | [Code](./Daily-Problems/2025-08-20_search-in-rotated-sorted-2d-matrix.md) |
 | 41 | 19-08-2025 | Farthest Smaller Right | ✅ Suffix Minima + Binary Search | `#BinarySearch`, `#Arrays`, `#SuffixMinima`, `#Greedy` | [Code](./Daily-Problems/2025-08-19_farthest-smaller-right.md) |
 | 40 | 18-08-2025 | Find H-Index | ✅ Sorting / Bucket Counting | `#Sorting`, `#Greedy`, `#CountingSort`, `#Arrays` | [Code](./Daily-Problems/2025-08-18_find-h-index.md) |
@@ -90,7 +91,9 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 ## ⚡ Algorithmic Approaches
 - 🧭 Greedy Logic, Two-Pointer Traversal  
+  - ⚖️ **Greedy Placement for Max-Min Difference**  
 - 🔍 Binary Search (Bisect)  
+  - 📏 **Binary Search on Answer (Maximize Minimum Difference)**  
 - 🔄 Complement Counting, Bit Manipulation  
 - 🗳 Boyer-Moore Voting Algorithm (Extended)  
 - 🪣 In-Place Marker Method  
@@ -109,7 +112,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 - 📐 **Sorting by Absolute Difference (Custom Key)**  
 - 🎓 **H-Index (Greedy + Counting Approach)**  
 - 🔥 **Farthest Smaller Right (Binary Search + Suffix Min Array)**  
-- 🗄 **Search in Fully Rotated Sorted 2D Matrix (Flattened Index + Modified Binary Search)**  
+- 🗄 **Search in Fully Rotated Sorted 2D Matrix (Flattened Index + Modified Binary Search)**
+
 
 ---
 
