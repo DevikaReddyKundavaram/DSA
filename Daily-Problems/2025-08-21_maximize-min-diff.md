@@ -4,21 +4,18 @@
 ## 📝 Problem Statement
 Given an array `arr[]` of integers and an integer `k`, select `k` elements from the array such that the **minimum absolute difference** between any two of the selected elements is maximized. Return this maximum possible minimum difference.
 
-### Example 1
-**Input:**  
-`arr = [2, 6, 2, 5], k = 3`  
-**Output:**  
-`1`  
-**Explanation:**  
-Selecting `[2, 5, 6]` results in minimum difference `1`, which is the maximum possible.
+Examples
+```text
+Example 1
+Input:  `arr = [2, 6, 2, 5], k = 3`  
+Output: `1`  
+Explanation: Selecting `[2, 5, 6]` results in minimum difference `1`, which is the maximum possible.
 
-### Example 2
-**Input:**  
-`arr = [1, 4, 9, 0, 2, 13, 3], k = 4`  
-**Output:**  
-`4`  
-**Explanation:**  
-Selecting `[0, 4, 9, 13]` results in minimum difference `4`, which is the largest possible.
+Example 2:
+Input: `arr = [1, 4, 9, 0, 2, 13, 3], k = 4`  
+Output: `4`  
+Explanation: Selecting `[0, 4, 9, 13]` results in minimum difference `4`, which is the largest possible.
+```
 ---
 
 ### Constraints
