@@ -19,6 +19,7 @@ Selecting `[2, 5, 6]` results in minimum difference `1`, which is the maximum po
 `4`  
 **Explanation:**  
 Selecting `[0, 4, 9, 13]` results in minimum difference `4`, which is the largest possible.
+---
 
 ### Constraints
 - `1 ≤ arr.size() ≤ 10^5`  
