@@ -1,4 +1,4 @@
-# Median in a Row-wise Sorted Matrix  
+# 🎯 Median in a Row-wise Sorted Matrix
 
 ## Problem Statement  
 Given a row-wise sorted matrix `mat[][]` of size `n * m`, where the number of rows and columns is always odd, return the **median of the matrix**.  
