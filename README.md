@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 45 | 23-08-2025 | Allocate Minimum Pages | ✅ Binary Search on Answer + Greedy Allocation | `#BinarySearch` `#Greedy` `#Arrays` `#Allocation` `#Medium` | [Code](./Daily-Problems/2025-08-23_allocate-minimum-pages.md) |
 | 44 | 22-08-2025 | Median in a Row-wise Sorted Matrix | ✅ Binary Search on Answer + Row-wise Counting |  `#BinarySearch` `#Matrix`  `#Sorting`  `#Median` `#Hard` | [Code](./Daily-Problems/2025-08-22_median-row-wise-sorted-matrix.md) |
 | 43 | 21-08-2025 | Maximize the Minimum Difference | ✅ Greedy Placement + Binary Search on Answer | `#BinarySearch`, `#Greedy`, `#Arrays`, `#Placement` | [Code](./Daily-Problems/2025-08-21_maximize-min-diff.md) |
 | 42 | 20-08-2025 | Search in Fully Rotated Sorted 2D Matrix | ✅ Flattened Index + Modified Binary Search | `#BinarySearch`, `#2DMatrix`, `#Rotation`, `#Searching` | [Code](./Daily-Problems/2025-08-20_search-in-rotated-sorted-2d-matrix.md) |
@@ -93,8 +94,10 @@ This is my personal DSA repository where I solve and document coding problems wi
 ## ⚡ Algorithmic Approaches
 - 🧭 Greedy Logic, Two-Pointer Traversal  
   - ⚖️ **Greedy Placement for Max-Min Difference**  
+  - 📚 **Greedy Allocation Check (Feasibility Function for Book Allocation)**  
 - 🔍 Binary Search (Bisect)  
   - 📏 **Binary Search on Answer (Maximize Minimum Difference)**  
+  - 📘 **Binary Search on Answer (Allocate Minimum Pages)**  
   - 🎯 **Median in Row-wise Sorted Matrix (Binary Search on Value Range + Row-wise Counting)**  
 - 🔄 Complement Counting, Bit Manipulation  
 - 🗳 Boyer-Moore Voting Algorithm (Extended)  
