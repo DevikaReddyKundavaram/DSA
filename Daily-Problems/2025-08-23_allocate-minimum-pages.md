@@ -67,11 +67,9 @@ class Solution:
     def findPages(self, arr, k):
         n = len(arr)
         
-        # If more students than books → not possible
         if k > n:
             return -1
 
-        # Function to check if allocation possible with maxPages = mid
         def is_possible(mid):
             students, pages = 1, 0
             for a in arr:
@@ -91,9 +89,9 @@ class Solution:
             mid = (low + high) // 2
             if is_possible(mid):
                 result = mid
-                high = mid - 1  # try smaller maximum
+                high = mid - 1  
             else:
-                low = mid + 1  # need larger maximum
+                low = mid + 1  
 
         return result
 ```
