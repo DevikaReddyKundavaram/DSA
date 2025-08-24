@@ -8,7 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
-| 46 | 24-08-2025 | Minimum Days to Make M Bouquets | ✅ Binary Search on Answer + Greedy Checking | `#BinarySearch` `#Greedy` `#Arrays` `#Bouquets` `#Medium` | [Code](./Daily-Problems/2025-08-24_min-days-m-bouquets.md) |
+| 46 | 24-08-2025 | Minimum Days to Make M Bouquets | ✅ Binary Search on Answer + Greedy Checking | `#BinarySearch` `#Greedy` `#Arrays` `#Bouquets` `#Medium` | [Code](./Daily-Problems/2025-08-24_minimum-days-make-m-bouquets.md) |
 | 45 | 23-08-2025 | Allocate Minimum Pages | ✅ Binary Search on Answer + Greedy Allocation | `#BinarySearch` `#Greedy` `#Arrays` `#Allocation` `#Medium` | [Code](./Daily-Problems/2025-08-23_allocate-minimum-pages.md) |
 | 44 | 22-08-2025 | Median in a Row-wise Sorted Matrix | ✅ Binary Search on Answer + Row-wise Counting |  `#BinarySearch` `#Matrix`  `#Sorting`  `#Median` `#Hard` | [Code](./Daily-Problems/2025-08-22_median-row-wise-sorted-matrix.md) |
 | 43 | 21-08-2025 | Maximize the Minimum Difference | ✅ Greedy Placement + Binary Search on Answer | `#BinarySearch`, `#Greedy`, `#Arrays`, `#Placement` | [Code](./Daily-Problems/2025-08-21_maximize-min-diff.md) |
@@ -96,10 +96,12 @@ This is my personal DSA repository where I solve and document coding problems wi
 - 🧭 Greedy Logic, Two-Pointer Traversal  
   - ⚖️ **Greedy Placement for Max-Min Difference**  
   - 📚 **Greedy Allocation Check (Feasibility Function for Book Allocation)**  
+  - 🌸 **Greedy Bouquet Formation (Check Feasibility within Days)**  
 - 🔍 Binary Search (Bisect)  
   - 📏 **Binary Search on Answer (Maximize Minimum Difference)**  
   - 📘 **Binary Search on Answer (Allocate Minimum Pages)**  
   - 🎯 **Median in Row-wise Sorted Matrix (Binary Search on Value Range + Row-wise Counting)**  
+  - 🌺 **Binary Search on Answer (Minimum Days to Make M Bouquets)**  
 - 🔄 Complement Counting, Bit Manipulation  
 - 🗳 Boyer-Moore Voting Algorithm (Extended)  
 - 🪣 In-Place Marker Method  
@@ -140,6 +142,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 - 🗂 2D Difference Matrix Updates  
 - ⏳ Time Sorting  
 - 🎯 **Median in Row-wise Sorted Matrix (Row-wise Sorted Structure + Median Extraction)**  
+- 🌹 **Bouquet Formation in Arrays (Consecutive Flower Grouping)**  
 
 ---
 
@@ -149,7 +152,6 @@ This is my personal DSA repository where I solve and document coding problems wi
 - 🏗 Grid Adjustment Simulation, Character Range Simulation  
 - 🔗 Interval Merging Simulation  
 - 🌙 Edge Case Wrapping (Midnight Wraparound)  
-
 
 ---
 
