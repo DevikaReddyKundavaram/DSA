@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 46 | 24-08-2025 | Minimum Days to Make M Bouquets | ✅ Binary Search on Answer + Greedy Checking | `#BinarySearch` `#Greedy` `#Arrays` `#Bouquets` `#Medium` | [Code](./Daily-Problems/2025-08-24_min-days-m-bouquets.md) |
 | 45 | 23-08-2025 | Allocate Minimum Pages | ✅ Binary Search on Answer + Greedy Allocation | `#BinarySearch` `#Greedy` `#Arrays` `#Allocation` `#Medium` | [Code](./Daily-Problems/2025-08-23_allocate-minimum-pages.md) |
 | 44 | 22-08-2025 | Median in a Row-wise Sorted Matrix | ✅ Binary Search on Answer + Row-wise Counting |  `#BinarySearch` `#Matrix`  `#Sorting`  `#Median` `#Hard` | [Code](./Daily-Problems/2025-08-22_median-row-wise-sorted-matrix.md) |
 | 43 | 21-08-2025 | Maximize the Minimum Difference | ✅ Greedy Placement + Binary Search on Answer | `#BinarySearch`, `#Greedy`, `#Arrays`, `#Placement` | [Code](./Daily-Problems/2025-08-21_maximize-min-diff.md) |
