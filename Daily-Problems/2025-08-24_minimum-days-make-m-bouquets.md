@@ -69,11 +69,9 @@ class Solution:
     def minDaysBloom(self, arr, k, m):
         n = len(arr)
 
-        # If not enough flowers
         if m * k > n:
             return -1
 
-        # Helper function to check feasibility
         def canMake(mid):
             bouquets, count = 0, 0
             for day in arr:
@@ -86,7 +84,6 @@ class Solution:
                     count = 0
             return bouquets >= m
 
-        # Binary search on answer
         low, high = min(arr), max(arr)
         ans = -1
 
