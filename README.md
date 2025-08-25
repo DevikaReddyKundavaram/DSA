@@ -8,7 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
-| 47 | 25-08-2025 | Maximize Median After k Additions | ✅ Binary Search on Answer + Greedy Increment | `#BinarySearch` `#Greedy` `#Arrays` `#Median` `#Medium` | [Code](./Daily-Problems/2025-08-24_maximize-median-k-addition.md) |
+| 47 | 25-08-2025 | Maximize Median After k Additions | ✅ Binary Search on Answer + Greedy Increment | `#BinarySearch` `#Greedy` `#Arrays` `#Median` `#Medium` | [Code](./Daily-Problems/2025-08-25_maximize-median-k-addition.md) |
 | 46 | 24-08-2025 | Minimum Days to Make M Bouquets | ✅ Binary Search on Answer + Greedy Checking | `#BinarySearch` `#Greedy` `#Arrays` `#Bouquets` `#Medium` | [Code](./Daily-Problems/2025-08-24_minimum-days-make-m-bouquets.md) |
 | 45 | 23-08-2025 | Allocate Minimum Pages | ✅ Binary Search on Answer + Greedy Allocation | `#BinarySearch` `#Greedy` `#Arrays` `#Allocation` `#Medium` | [Code](./Daily-Problems/2025-08-23_allocate-minimum-pages.md) |
 | 44 | 22-08-2025 | Median in a Row-wise Sorted Matrix | ✅ Binary Search on Answer + Row-wise Counting |  `#BinarySearch` `#Matrix`  `#Sorting`  `#Median` `#Hard` | [Code](./Daily-Problems/2025-08-22_median-row-wise-sorted-matrix.md) |
