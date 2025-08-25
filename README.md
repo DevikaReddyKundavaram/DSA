@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 47 | 25-08-2025 | Maximize Median After k Additions | ✅ Binary Search on Answer + Greedy Increment | `#BinarySearch` `#Greedy` `#Arrays` `#Median` `#Medium` | [Code](./Daily-Problems/2025-08-24_maximize-median-k-addition.md) |
 | 46 | 24-08-2025 | Minimum Days to Make M Bouquets | ✅ Binary Search on Answer + Greedy Checking | `#BinarySearch` `#Greedy` `#Arrays` `#Bouquets` `#Medium` | [Code](./Daily-Problems/2025-08-24_minimum-days-make-m-bouquets.md) |
 | 45 | 23-08-2025 | Allocate Minimum Pages | ✅ Binary Search on Answer + Greedy Allocation | `#BinarySearch` `#Greedy` `#Arrays` `#Allocation` `#Medium` | [Code](./Daily-Problems/2025-08-23_allocate-minimum-pages.md) |
 | 44 | 22-08-2025 | Median in a Row-wise Sorted Matrix | ✅ Binary Search on Answer + Row-wise Counting |  `#BinarySearch` `#Matrix`  `#Sorting`  `#Median` `#Hard` | [Code](./Daily-Problems/2025-08-22_median-row-wise-sorted-matrix.md) |
@@ -102,6 +103,7 @@ This is my personal DSA repository where I solve and document coding problems wi
   - 📘 **Binary Search on Answer (Allocate Minimum Pages)**  
   - 🎯 **Median in Row-wise Sorted Matrix (Binary Search on Value Range + Row-wise Counting)**  
   - 🌺 **Binary Search on Answer (Minimum Days to Make M Bouquets)**  
+  - 🌼 **Binary Search on Answer (Maximize Median with k Increments)** ✅ *(24-08-2025)*  
 - 🔄 Complement Counting, Bit Manipulation  
 - 🗳 Boyer-Moore Voting Algorithm (Extended)  
 - 🪣 In-Place Marker Method  
@@ -143,6 +145,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 - ⏳ Time Sorting  
 - 🎯 **Median in Row-wise Sorted Matrix (Row-wise Sorted Structure + Median Extraction)**  
 - 🌹 **Bouquet Formation in Arrays (Consecutive Flower Grouping)**  
+- 🌼 **Median Maximization in Arrays (with k extra increments)** ✅ *(24-08-2025)*  
 
 ---
 
