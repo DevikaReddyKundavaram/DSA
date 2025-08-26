@@ -62,7 +62,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | Category | Subtopics / Algorithms | Sample Problems / Notes |
 |----------|----------------------|------------------------|
-| **Strings** | Basic Strings, Prefix Checking, Binary Strings, Subsequence Patterns, Trie, ASCII-Based Logic, Palindromes, KMP/Z-Algorithm, String Matching | ✂️ Form Largest Number, ⚖️ Custom Comparator, 📝 Check Subsequence of Other *(26-08-2025)* |
+| **Strings** | Basic Strings, Prefix Checking, Binary Strings, Subsequence Patterns, Trie, ASCII-Based Logic, Palindromes, KMP/Z-Algorithm, String Matching | ✂️ Form Largest Number, ⚖️ Custom Comparator |
 | **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numeral Conversion | 🎖 Lucky Soldiers Problem |
 | **Dynamic Programming** | 1D/Matrix DP, Grid Traversal, Recurrence Relations, Circular Kadane, Prefix/Suffix Maximum | 🔄 Common DP patterns |
 | **Greedy / Two-Pointer / Binary Search** | Greedy Placement, Allocation Check, Bouquet Formation, Two-Pointer Traversal, Binary Search on Answer, Median Maximization, Modified Merge Sort, Divide & Conquer | ⚖️ Max-Min Difference, 📘 Allocate Minimum Pages, 🌺 Minimum Days to Make M Bouquets, 🌼 Maximize Median with k Increments *(24-08-2025)*, 🌱 Check Subsequence *(26-08-2025)* |
