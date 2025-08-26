@@ -10,30 +10,25 @@ A **subsequence** is a sequence that can be derived from another sequence by del
 ---
 
 ## 🔍 Examples
-
-### Example 1
-**Input:**  
+```text
+Example 1
+Input:
 s1 = "AXY"
 s2 = "YADXCP"
-**Output:**  
-false
-**Explanation:**  
+Output: false
+Explanation:
 `s1` is not a subsequence of `s2` as `'Y'` appears before `'A'`.
 
----
-
-### Example 2
-**Input:**  
+Example 2
+Input:
 s1 = "gksrek"
 s2 = "geeksforgeeks"
-**Output:**  
-true
-**Explanation:**  
+Output: true
+Explanation:
 If we combine the bold characters of `"geeksforgeeks"`, it equals `s1`.  
 So `s1` is a subsequence of `s2`.  
-
+```
 ---
-
 
 ## ⚙️ Constraints
 - `1 ≤ |s1|, |s2| ≤ 10^6`
@@ -77,8 +72,16 @@ So `s1` is a subsequence of `s2`.
 
 ```python
 class Solution:
-    def isSubSeq(self, s1, s2):## 🌍 Applications of Subsequence Checking
-
+    def isSubSeq(self, s1, s2):
+        i, j = 0, 0
+        while i < len(s1) and j < len(s2):
+          if s1[i] == s2[j]:
+            i += 1
+          j += 1
+        return i == len(s1)
+```
+---
+## 🌍 Applications of Subsequence Checking
 - 🔑 **String Pattern Matching**  
   - Used to verify if a smaller string exists as a subsequence in a larger string without exact continuity.  
 
@@ -107,12 +110,4 @@ class Solution:
 `#Subsequence`  
 `#Searching`  
 
-        i, j = 0, 0
-        while i < len(s1) and j < len(s2):
-            if s1[i] == s2[j]:
-                i += 1
-            j += 1
-        return i == len(s1)
-```
----
 
