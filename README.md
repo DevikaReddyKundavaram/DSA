@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 48 | 26-08-2025 | Check if a String is Subsequence of Other | ✅ Two-Pointer Greedy Matching | `#Strings` `#Greedy` `#TwoPointers` `#Easy` | [Code](./Daily-Problems/2025-08-26_check-subsequence.md) |
 | 47 | 25-08-2025 | Maximize Median After k Additions | ✅ Binary Search on Answer + Greedy Increment | `#BinarySearch` `#Greedy` `#Arrays` `#Median` `#Medium` | [Code](./Daily-Problems/2025-08-25_maximize-median-k-addition.md) |
 | 46 | 24-08-2025 | Minimum Days to Make M Bouquets | ✅ Binary Search on Answer + Greedy Checking | `#BinarySearch` `#Greedy` `#Arrays` `#Bouquets` `#Medium` | [Code](./Daily-Problems/2025-08-24_minimum-days-make-m-bouquets.md) |
 | 45 | 23-08-2025 | Allocate Minimum Pages | ✅ Binary Search on Answer + Greedy Allocation | `#BinarySearch` `#Greedy` `#Arrays` `#Allocation` `#Medium` | [Code](./Daily-Problems/2025-08-23_allocate-minimum-pages.md) |
@@ -57,104 +58,16 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 1    | 10-07-2025 | Longest Word With All Prefixes Present           | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` | [Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
 
 ---
-# 🧠 Problem-Solving Topics Covered
+# 🧠 Problem-Solving Topics Covered (Compact)
 
-## 📌 String Techniques
-- 🔤 Basic Strings, Prefix Checking, Binary Strings  
-- 📏 Subsequence Patterns, First/Last Occurrence Indexing  
-- 🌲 Trie (Prefix Tree)  
-- 🔡 ASCII-Based Logic, Vowel-Consonant Balance, Alphanumeric Filtering  
-- 🔁 Palindrome Checking, Palindrome Substrings (Expand Around Center), Odd Length Palindromes, Manacher’s Algorithm  
-- 🔎 Symbol Parsing, Time String Parsing  
-- 🧮 KMP Prefix Function, Z-Algorithm, Pattern Periodicity, Prefix-Suffix Overlap  
-- 🔗 String Matching  
-- ✂️ **String Concatenation Ordering (Form Largest Number)**  
-- ⚖️ **Custom Comparator in Strings**  
-
----
-
-## 📐 Mathematics & Number Theory
-- 🧾 Mathematical Validation, Modulo Arithmetic (Large Numbers)  
-- 🔢 Number Theory, Divisors Counting, Sieve of Eratosthenes, Prime Factorization  
-- 🧮 Legendre’s Formula (Prime Power in Factorials)  
-- 🔗 Coprime Counting (Inclusion-Exclusion Principle)  
-- ➕ Cumulative Sum Logic  
-- 🏛 Roman Numeral Conversion, Time to Seconds Conversion  
-- 🎖 **Modulo Arithmetic (Lucky Soldiers Problem)**  
-
----
-
-## 🧩 Dynamic Programming (DP)
-- 📊 1D DP (Tabulation), Matrix DP  
-- 🌐 Grid Traversal  
-- 🔁 Recurrence Relations  
-- 🌀 Circular Kadane (Wraparound Subarray Logic)  
-- 🔼 Prefix/Suffix Maximum DP  
-
----
-
-## ⚡ Algorithmic Approaches
-- 🧭 Greedy Logic, Two-Pointer Traversal  
-  - ⚖️ **Greedy Placement for Max-Min Difference**  
-  - 📚 **Greedy Allocation Check (Feasibility Function for Book Allocation)**  
-  - 🌸 **Greedy Bouquet Formation (Check Feasibility within Days)**  
-- 🔍 Binary Search (Bisect)  
-  - 📏 **Binary Search on Answer (Maximize Minimum Difference)**  
-  - 📘 **Binary Search on Answer (Allocate Minimum Pages)**  
-  - 🎯 **Median in Row-wise Sorted Matrix (Binary Search on Value Range + Row-wise Counting)**  
-  - 🌺 **Binary Search on Answer (Minimum Days to Make M Bouquets)**  
-  - 🌼 **Binary Search on Answer (Maximize Median with k Increments)** ✅ *(24-08-2025)*  
-- 🔄 Complement Counting, Bit Manipulation  
-- 🗳 Boyer-Moore Voting Algorithm (Extended)  
-- 🪣 In-Place Marker Method  
-- 🎮 Simulation, Space Optimization  
-- ➗ Row/Column Sum Optimization, Range-Based Summation  
-- 📊 Prefix Sum with Hashing, Line Sweep Algorithm, Difference Array  
-- 🗂 HashMap with Prefix Balance, Majority vs Minority Subarray Logic  
-- 🖇 2D Range Update Optimization  
-- ⏰ Greedy Roman Parsing, Clock Difference Logic  
-- 🧩 Bitmasking + Set Representation  
-- ⚔️ **Greedy Troop Selection Logic**  
-- 🪓 **Divide & Conquer**  
-- 🔀 **Modified Merge Sort**  
-- 📌 **Interval Insertion & Merging**  
-- 🧾 **Custom Sorting for Largest Number**  
-- 📐 **Sorting by Absolute Difference (Custom Key)**  
-- 🎓 **H-Index (Greedy + Counting Approach)**  
-- 🔥 **Farthest Smaller Right (Binary Search + Suffix Min Array)**  
-- 🗄 **Search in Fully Rotated Sorted 2D Matrix (Flattened Index + Modified Binary Search)**  
-
----
-
-## 🔢 Combinatorics & Counting
-- 🎲 Combinatorics, Permutations, Counting Principle, Set Theory  
-- 🔢 Digit Based Counting Problems, Range Frequency Counting  
-- 🔄 **Reverse Pair Counting**  
-
----
-
-## 🧮 Array Techniques
-- 🗺 Index Mapping, Cyclic Sort, Missing Number Problems  
-- ➕ Prefix Contribution  
-- 🌀 Max Circular Subarray Sum (Kadane’s Extension)  
-- 👥 Majority Element (n/3 Condition)  
-- 📊 Frequency-Based Counting  
-- 🧩 Matrix Zeroing Logic, 2D Row-Column Balancing  
-- 📈 Subarray Sum with HashMap, Subarray Majority Detection  
-- 🗂 2D Difference Matrix Updates  
-- ⏳ Time Sorting  
-- 🎯 **Median in Row-wise Sorted Matrix (Row-wise Sorted Structure + Median Extraction)**  
-- 🌹 **Bouquet Formation in Arrays (Consecutive Flower Grouping)**  
-- 🌼 **Median Maximization in Arrays (with k extra increments)** ✅ *(24-08-2025)*  
-
----
-
-## 🎲 Simulation & Brainteasers
-- 🕒 Last Moment Simulation, Direction Reversal Logic  
-- ↔️ 1D Movement Problems, Collision-Free Modeling  
-- 🏗 Grid Adjustment Simulation, Character Range Simulation  
-- 🔗 Interval Merging Simulation  
-- 🌙 Edge Case Wrapping (Midnight Wraparound)  
+| Category | Subtopics / Algorithms | Sample Problems / Notes |
+|----------|----------------------|------------------------|
+| **Strings** | Basic Strings, Prefix Checking, Binary Strings, Subsequence Patterns, Trie, ASCII-Based Logic, Palindromes, KMP/Z-Algorithm, String Matching | ✂️ Form Largest Number, ⚖️ Custom Comparator, 📝 Check Subsequence of Other *(26-08-2025)* |
+| **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numeral Conversion | 🎖 Lucky Soldiers Problem |
+| **Dynamic Programming** | 1D/Matrix DP, Grid Traversal, Recurrence Relations, Circular Kadane, Prefix/Suffix Maximum | 🔄 Common DP patterns |
+| **Greedy / Two-Pointer / Binary Search** | Greedy Placement, Allocation Check, Bouquet Formation, Two-Pointer Traversal, Binary Search on Answer, Median Maximization, Modified Merge Sort, Divide & Conquer | ⚖️ Max-Min Difference, 📘 Allocate Minimum Pages, 🌺 Minimum Days to Make M Bouquets, 🌼 Maximize Median with k Increments *(24-08-2025)*, 🌱 Check Subsequence *(26-08-2025)* |
+| **Arrays / Combinatorics** | Index Mapping, Cyclic Sort, Missing Numbers, Prefix Contribution, Max Circular Subarray, Frequency Counting, Matrix Zeroing, Subarray Sums, 2D Difference Matrix, Combinatorics, Permutations, Reverse Pair Counting | 🎯 Median in Row-wise Sorted Matrix, 🌹 Bouquet Formation |
+| **Simulation & Brainteasers** | Last Moment Simulation, Direction Reversal, 1D Movement, Grid Adjustment, Interval Merging, Edge Case Wrapping | ⏳ Various simulation problems |  
 
 ---
 
