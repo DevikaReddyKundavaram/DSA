@@ -8,7 +8,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
-| 49 | 27-08-2025 | Count the Number of Possible Triangles | ✅ Sorting + Two-Pointer Technique | `#Arrays` `#TwoPointers` `#Sorting` `#Math` `#Medium` | [Code](./Daily-Problems/27-08-2025_count_number_of_possible_triangles.md) |
+| 50 | 28-08-2025 | Max Consecutive 1s After Flips | ✅ Sliding Window (Two Pointers) | `#Arrays` `#SlidingWindow` `#TwoPointers` `#Greedy` | [Code](./Daily-Problems/2025-08-28_max-consecutive-ones.md) |
+| 49 | 27-08-2025 | Count the Number of Possible Triangles | ✅ Sorting + Two-Pointer Technique | `#Arrays` `#TwoPointers` `#Sorting` `#Math` `#Medium` | [Code](./Daily-Problems/2025-08-27_count_number_of_possible_triangles.md) |
 | 48 | 26-08-2025 | Check if a String is Subsequence of Other | ✅ Two-Pointer Greedy Matching | `#Strings` `#Greedy` `#TwoPointers` `#Easy` | [Code](./Daily-Problems/2025-08-26_check-subsequence.md) |
 | 47 | 25-08-2025 | Maximize Median After k Additions | ✅ Binary Search on Answer + Greedy Increment | `#BinarySearch` `#Greedy` `#Arrays` `#Median` `#Medium` | [Code](./Daily-Problems/2025-08-25_maximize-median-k-addition.md) |
 | 46 | 24-08-2025 | Minimum Days to Make M Bouquets | ✅ Binary Search on Answer + Greedy Checking | `#BinarySearch` `#Greedy` `#Arrays` `#Bouquets` `#Medium` | [Code](./Daily-Problems/2025-08-24_minimum-days-make-m-bouquets.md) |
@@ -59,17 +60,17 @@ This is my personal DSA repository where I solve and document coding problems wi
 | 1    | 10-07-2025 | Longest Word With All Prefixes Present           | ✅set+sort,Trie        | `#Strings`, `#Trie`, `#Greedy` | [Code](./Daily-Problems/2025-07-10-longest-valid-word.md) |
 
 ---
-  
-# 🧠 Problem-Solving Topics Covered (Compact)
+# 🧠 Problem-Solving Topics Covered
 
-| Category | Subtopics / Algorithms | Sample Problems / Notes |
-|----------|------------------------|-------------------------|
-| **Strings** | Basic Strings, Prefix Checking, Binary Strings, Subsequence Patterns, Trie, ASCII-Based Logic, Palindromes, KMP/Z-Algorithm, String Matching | ✂️ Form Largest Number, ⚖️ Custom Comparator, 🌱 Check Subsequence * |
-| **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numeral Conversion | 🎖 Lucky Soldiers Problem |
-| **Dynamic Programming** | 1D/Matrix DP, Grid Traversal, Recurrence Relations, Circular Kadane, Prefix/Suffix Maximum | 🔄 Common DP Patterns |
-| **Greedy / Two-Pointer / Binary Search** | Greedy Placement, Allocation Check, Bouquet Formation, Two-Pointer Traversal, Binary Search on Answer, Median Maximization, Modified Merge Sort, Divide & Conquer | ⚖️ Max-Min Difference, 📘 Allocate Minimum Pages, 🌺 Minimum Days to Make M Bouquets , 🌼 Maximize Median with k Increments  |
-| **Arrays / Combinatorics** | Index Mapping, Cyclic Sort, Missing Numbers, Prefix Contribution, Max Circular Subarray, Frequency Counting, Matrix Zeroing, Subarray Sums, 2D Difference Matrix, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting | 🎯 Median in Row-wise Sorted Matrix, 🌹 Bouquet Formation, 🔺 Count Possible Triangles *(27-08-2025)* |
-| **Simulation & Brainteasers** | Last Moment Simulation, Direction Reversal, 1D Movement, Grid Adjustment, Interval Merging, Edge Case Wrapping | ⏳ Various Simulation Problems |
+| Category | Topics Covered |
+|----------|----------------|
+| **Strings** | Basic String Operations, Prefix Checking, Binary Strings, Subsequence Matching, Trie, ASCII Logic, Palindromes, Pattern Matching (KMP/Z) |
+| **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve of Eratosthenes, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numerals |
+| **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums |
+| **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer |
+| **Arrays & Combinatorics** | Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting |
+| **Simulation & Brainteasers** | Last Moment Simulation, Direction/Path Reversal, Grid Adjustments, Interval Merging, Edge Wrapping Cases |
+
 ---
 
 
