@@ -68,6 +68,8 @@ class Solution:
                 left += 1
             
             max_len = max(max_len, right - left + 1)
+        return max_len
+
 ```
 ---
 ### 🔹 Applications  
@@ -82,4 +84,3 @@ class Solution:
 `#SlidingWindow` `#TwoPointers` `#Greedy` `#Arrays` `#Medium`  
 
         
-        return max_len
