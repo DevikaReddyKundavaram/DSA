@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 51 | 29-08-2025 | Smallest Window Substring | ✅ Sliding Window + HashMap | `#Strings` `#SlidingWindow` `#Hashing` `#TwoPointers` | [Code](./Daily-Problems/2025-08-29_smallest-window-substring.md) |
 | 50 | 28-08-2025 | Max Consecutive 1s After Flips | ✅ Sliding Window (Two Pointers) | `#Arrays` `#SlidingWindow` `#TwoPointers` `#Greedy` | [Code](./Daily-Problems/2025-08-28_max-consecutive-ones.md) |
 | 49 | 27-08-2025 | Count the Number of Possible Triangles | ✅ Sorting + Two-Pointer Technique | `#Arrays` `#TwoPointers` `#Sorting` `#Math` `#Medium` | [Code](./Daily-Problems/2025-08-27_count_number_of_possible_triangles.md) |
 | 48 | 26-08-2025 | Check if a String is Subsequence of Other | ✅ Two-Pointer Greedy Matching | `#Strings` `#Greedy` `#TwoPointers` `#Easy` | [Code](./Daily-Problems/2025-08-26_check-subsequence.md) |
@@ -64,7 +65,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | Category | Topics Covered |
 |----------|----------------|
-| **Strings** | Basic String Operations, Prefix Checking, Binary Strings, Subsequence Matching, Trie, ASCII Logic, Palindromes, Pattern Matching (KMP/Z) |
+| **Strings** | Basic String Operations, Prefix Checking, Binary Strings, Subsequence Matching, Trie, ASCII Logic, Palindromes, Pattern Matching (KMP/Z), Minimum Window Substring |
 | **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve of Eratosthenes, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numerals |
 | **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums |
 | **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer |
