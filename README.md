@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 52 | 30-08-2025 | Celebrity Problem | ✅ Stack + Elimination + Verification | `#Matrix` `#Stack` `#TwoPointers` `#GraphLogic` | [Code](./Daily-Problems/2025-08-30_celebrity-problem.md) |
 | 51 | 29-08-2025 | Smallest Window Substring | ✅ Sliding Window + HashMap | `#Strings` `#SlidingWindow` `#Hashing` `#TwoPointers` | [Code](./Daily-Problems/2025-08-29_smallest-window-substring.md) |
 | 50 | 28-08-2025 | Max Consecutive 1s After Flips | ✅ Sliding Window (Two Pointers) | `#Arrays` `#SlidingWindow` `#TwoPointers` `#Greedy` | [Code](./Daily-Problems/2025-08-28_max-consecutive-ones.md) |
 | 49 | 27-08-2025 | Count the Number of Possible Triangles | ✅ Sorting + Two-Pointer Technique | `#Arrays` `#TwoPointers` `#Sorting` `#Math` `#Medium` | [Code](./Daily-Problems/2025-08-27_count_number_of_possible_triangles.md) |
@@ -70,7 +71,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums |
 | **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer |
 | **Arrays & Combinatorics** | Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting |
-| **Simulation & Brainteasers** | Last Moment Simulation, Direction/Path Reversal, Grid Adjustments, Interval Merging, Edge Wrapping Cases |
+| **Simulation & Brainteasers** | Last Moment Simulation, Direction/Path Reversal, Grid Adjustments, Interval Merging, Edge Wrapping Cases, Celebrity Problem |
 
 ---
 
