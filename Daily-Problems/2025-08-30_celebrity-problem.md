@@ -67,16 +67,14 @@ class Solution:
         n = len(mat)
         i, j = 0, n - 1
         
-        # Step 1: Find potential candidate
         while i < j:
             if mat[i][j] == 1:
-                i += 1  # i knows j → i not celebrity
+                i += 1  
             else:
-                j -= 1  # i does not know j → j not celebrity
+                j -= 1  
         
         candidate = i
         
-        # Step 2: Verify candidate
         for k in range(n):
             if k != candidate:
                 if mat[candidate][k] == 1 or mat[k][candidate] == 0:
