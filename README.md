@@ -8,6 +8,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 53 | 31-08-2025 | Container With Most Water | ✅ Two Pointers + Greedy | `#Arrays` `#TwoPointers` `#Greedy` `#Optimization` | [Code](./Daily-Problems/2025-08-31_container-with-most-water.md) |
 | 52 | 30-08-2025 | Celebrity Problem | ✅ Stack + Elimination + Verification | `#Matrix` `#Stack` `#TwoPointers` `#GraphLogic` | [Code](./Daily-Problems/2025-08-30_celebrity-problem.md) |
 | 51 | 29-08-2025 | Smallest Window Substring | ✅ Sliding Window + HashMap | `#Strings` `#SlidingWindow` `#Hashing` `#TwoPointers` | [Code](./Daily-Problems/2025-08-29_smallest-window-substring.md) |
 | 50 | 28-08-2025 | Max Consecutive 1s After Flips | ✅ Sliding Window (Two Pointers) | `#Arrays` `#SlidingWindow` `#TwoPointers` `#Greedy` | [Code](./Daily-Problems/2025-08-28_max-consecutive-ones.md) |
@@ -69,9 +70,10 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Strings** | Basic String Operations, Prefix Checking, Binary Strings, Subsequence Matching, Trie, ASCII Logic, Palindromes, Pattern Matching (KMP/Z), Minimum Window Substring |
 | **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve of Eratosthenes, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numerals |
 | **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums |
-| **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer |
+| **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer, Container With Most Water |
 | **Arrays & Combinatorics** | Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting |
 | **Simulation & Brainteasers** | Last Moment Simulation, Direction/Path Reversal, Grid Adjustments, Interval Merging, Edge Wrapping Cases, Celebrity Problem |
+
 
 ---
 
