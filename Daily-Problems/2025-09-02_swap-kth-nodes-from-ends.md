@@ -58,7 +58,6 @@ class Node:
 
 class Solution:
     def swapKth(self, head, k):
-        # Step 1: Count nodes
         n = 0
         curr = head
         while curr:
@@ -66,23 +65,20 @@ class Solution:
             curr = curr.next
         
         if k > n:
-            return head  # not possible
+            return head  
         if 2*k - 1 == n:
-            return head  # same node, no swap
+            return head  
         
-        # kth node from start
         x_prev, x = None, head
         for i in range(1, k):
             x_prev = x
             x = x.next
-        
-        # kth node from end
+
         y_prev, y = None, head
         for i in range(1, n-k+1):
             y_prev = y
             y = y.next
         
-        # adjust previous nodes
         if x_prev:
             x_prev.next = y
         else:
@@ -93,7 +89,6 @@ class Solution:
         else:
             head = x
         
-        # swap next pointers
         x.next, y.next = y.next, x.next
         
         return head
