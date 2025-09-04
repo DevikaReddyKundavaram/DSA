@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 57 | 04-09-2025 | Linked List Group Reverse | ✅ Linked List + Two Pointers | `#LinkedList` `#TwoPointers` `#Simulation` `#DataStructures` | [Code](./Daily-Problems/2025-09-04_linked-list-group-reverse.md) |
 | 56 | 03-09-2025 | Reverse a Doubly Linked List | ✅ Linked List + Pointer Manipulation | `#LinkedList` `#Pointers` `#Reversal` | [Code](./Daily-Problems/2025-09-03_reverse-doubly-linked-list.md) |
 | 55 | 02-09-2025 | Swap Kth Nodes from Ends | ✅ Linked List + Two Pointers | `#LinkedList` `#TwoPointers` `#Simulation` | [Code](./Daily-Problems/2025-09-02_swap-kth-nodes-from-ends.md) |
 | 54 | 01-09-2025 | Sum of Modes | ✅ Sliding Window + Frequency Map + Ordered Structure | `#Arrays` `#HashMap` `#SlidingWindow` `#Frequency` | [Code](./Daily-Problems/2025-09-01_sum-of-modes.md) |
