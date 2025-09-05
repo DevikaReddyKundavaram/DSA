@@ -87,6 +87,7 @@ class Solution:
         zero.next = oneD.next if oneD.next else twoD.next
         one.next = twoD.next
         two.next = None
+        return zeroD.next
 ```
 ## Applications
 
@@ -104,4 +105,3 @@ This algorithm is useful in scenarios where linked data must be rearranged effic
 
 ---
 
-        return zeroD.next
