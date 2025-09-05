@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 58 | 05-09-2025 | Sort a Linked List of 0s, 1s and 2s | ✅ Linked List + Sorting (0s,1s,2s) | `#LinkedList` `#Sorting` `#Pointers` `#DataStructures` | [Code](./Daily-Problems/2025-09-05_sort-linked-list-0s-1s-2s.md) |
 | 57 | 04-09-2025 | Linked List Group Reverse | ✅ Linked List + Two Pointers | `#LinkedList` `#TwoPointers` `#Simulation` `#DataStructures` | [Code](./Daily-Problems/2025-09-04_linked-list-group-reverse.md) |
 | 56 | 03-09-2025 | Reverse a Doubly Linked List | ✅ Linked List + Pointer Manipulation | `#LinkedList` `#Pointers` `#Reversal` | [Code](./Daily-Problems/2025-09-03_reverse-doubly-linked-list.md) |
 | 55 | 02-09-2025 | Swap Kth Nodes from Ends | ✅ Linked List + Two Pointers | `#LinkedList` `#TwoPointers` `#Simulation` | [Code](./Daily-Problems/2025-09-02_swap-kth-nodes-from-ends.md) |
