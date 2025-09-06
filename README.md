@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 59 | 06-09-2025 | Find Length of Loop | ✅ Linked List + Cycle Detection | `#LinkedList` `#CycleDetection` `#FloydAlgorithm` `#TwoPointers` `#DataStructures` | [Code](./Daily-Problems/2025-09-06_find-length-of-loop.md) |
 | 58 | 05-09-2025 | Sort a Linked List of 0s, 1s and 2s | ✅ Linked List + Sorting (0s,1s,2s) | `#LinkedList` `#Sorting` `#Pointers` `#DataStructures` | [Code](./Daily-Problems/2025-09-05_sort-linked-list-0s-1s-2s.md) |
 | 57 | 04-09-2025 | Linked List Group Reverse | ✅ Linked List + Two Pointers | `#LinkedList` `#TwoPointers` `#Simulation` `#DataStructures` | [Code](./Daily-Problems/2025-09-04_linked-list-group-reverse.md) |
 | 56 | 03-09-2025 | Reverse a Doubly Linked List | ✅ Linked List + Pointer Manipulation | `#LinkedList` `#Pointers` `#Reversal` | [Code](./Daily-Problems/2025-09-03_reverse-doubly-linked-list.md) |
@@ -78,8 +79,9 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums |
 | **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer, Container With Most Water |
 | **Arrays & Combinatorics** | Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting, Sum of Modes |
-| **Linked List** | Basic Operations, Traversal, Two-Pointer Tricks, Swap Kth Nodes from Ends, Reverse a Doubly Linked List, Group Reversal, Sorting 0s 1s 2s |
+| **Linked List** | Basic Operations, Traversal, Two-Pointer Tricks, Swap Kth Nodes from Ends, Doubly Linked List Reversal, Group Reversal, Counting Method (0s,1s,2s), Floyd’s Cycle Detection |
 | **Simulation & Brainteasers** | Last Moment Simulation, Direction/Path Reversal, Grid Adjustments, Interval Merging, Edge Wrapping Cases, Celebrity Problem |
+
 ---
 
 
