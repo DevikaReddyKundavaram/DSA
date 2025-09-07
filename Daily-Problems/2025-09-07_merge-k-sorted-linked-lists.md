@@ -121,8 +121,3 @@ class Solution:
 
       
 
-
-
-
-
-        return du
