@@ -9,7 +9,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
-| 60 | 08-09-2025 | Merge Sort for Linked List | ✅ Linked List + Merge Sort | `#LinkedList` `#MergeSort` `#DivideAndConquer` `#Sorting` `#Recursive` | [Code](./Daily-Problems/2025-09-08_merge-sort-linked-list.md) |
+| 61 | 08-09-2025 | Merge Sort for Linked List | ✅ Linked List + Merge Sort | `#LinkedList` `#MergeSort` `#DivideAndConquer` `#Sorting` `#Recursive` | [Code](./Daily-Problems/2025-09-08_merge-sort-linked-list.md) |
+| 60 | 07-09-2025 | Merge K Sorted Linked Lists | ✅ Linked List + Min Heap / Priority Queue | `#LinkedList` `#Heap` `#DivideAndConquer` `#Merge` `#PriorityQueue` `#Sorting` | [Code](./Daily-Problems/2025-09-07_merge-k-sorted-linked-lists.md) |
 | 59 | 06-09-2025 | Find Length of Loop | ✅ Linked List + Cycle Detection | `#LinkedList` `#CycleDetection` `#FloydAlgorithm` `#TwoPointers` `#DataStructures` | [Code](./Daily-Problems/2025-09-06_find-length-of-loop.md) |
 | 58 | 05-09-2025 | Sort a Linked List of 0s, 1s and 2s | ✅ Linked List + Sorting (0s,1s,2s) | `#LinkedList` `#Sorting` `#Pointers` `#DataStructures` | [Code](./Daily-Problems/2025-09-05_sort-linked-list-0s-1s-2s.md) |
 | 57 | 04-09-2025 | Linked List Group Reverse | ✅ Linked List + Two Pointers | `#LinkedList` `#TwoPointers` `#Simulation` `#DataStructures` | [Code](./Daily-Problems/2025-09-04_linked-list-group-reverse.md) |
