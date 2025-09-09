@@ -22,7 +22,7 @@ Explanation:
 - Mouse at 4 → Hole at 4 → Time = 0  
 - Mouse at -4 → Hole at 0 → Time = 4  
 - Mouse at 2 → Hole at 5 → Time = 3  
-Maximum time = **4**  
+Maximum time = 4
 
 Example2
 Input: mices[] = [1, 2], holes[] = [20, 10]
@@ -30,7 +30,7 @@ Output: 18
 Explanation:
 - Mouse at 1 → Hole at 10 → Time = 9  
 - Mouse at 2 → Hole at 20 → Time = 18  
-Maximum time = **18**  
+Maximum time = 18
 ```
 ---
 
