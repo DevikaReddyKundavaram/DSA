@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 62 | 09-09-2025 | Assign Mice to Holes | ✅ Greedy + Sorting | `#Greedy` `#Sorting` `#Arrays` `#Allocation` | [Code](./Daily-Problems/2025-09-09_assign-mice-to-holes.md) |
 | 61 | 08-09-2025 | Merge Sort for Linked List | ✅ Linked List + Merge Sort | `#LinkedList` `#MergeSort` `#DivideAndConquer` `#Sorting` `#Recursive` | [Code](./Daily-Problems/2025-09-08_merge-sort-linked-list.md) |
 | 60 | 07-09-2025 | Merge K Sorted Linked Lists | ✅ Linked List + Min Heap / Priority Queue | `#LinkedList` `#Heap` `#DivideAndConquer` `#Merge` `#PriorityQueue` `#Sorting` | [Code](./Daily-Problems/2025-09-07_merge-k-sorted-linked-lists.md) |
 | 59 | 06-09-2025 | Find Length of Loop | ✅ Linked List + Cycle Detection | `#LinkedList` `#CycleDetection` `#FloydAlgorithm` `#TwoPointers` `#DataStructures` | [Code](./Daily-Problems/2025-09-06_find-length-of-loop.md) |
@@ -74,15 +75,13 @@ This is my personal DSA repository where I solve and document coding problems wi
 ---
 # 🧠 Problem-Solving Topics Covered
 
-# 🧠 Problem-Solving Topics Covered
-
 | Category | Topics Covered |
 |----------|----------------|
 | **Strings** | Basic String Operations, Prefix Checking, Binary Strings, Subsequence Matching, Trie, ASCII Logic, Palindromes, Pattern Matching (KMP/Z), Minimum Window Substring |
 | **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve of Eratosthenes, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numerals |
 | **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums |
 | **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer, Container With Most Water |
-| **Arrays & Combinatorics** | Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting, Sum of Modes |
+| **Arrays & Combinatorics** | Sorting, Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting, Sum of Modes |
 | **Linked List** | Basic Operations, Traversal, Two-Pointer Tricks, Swap Kth Nodes from Ends, Doubly Linked List Reversal, Group Reversal, Counting Method (0s,1s,2s), Floyd’s Cycle Detection, Merge Sort, Merge K Sorted Lists (Min Heap / Priority Queue) |
 | **Simulation & Brainteasers** | Last Moment Simulation, Direction/Path Reversal, Grid Adjustments, Interval Merging, Edge Wrapping Cases, Celebrity Problem |
 
