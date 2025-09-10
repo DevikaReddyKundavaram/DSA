@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 63 | 10-09-2025 | Largest Number in One Swap | ✅ Strings + Greedy Swap | `#Strings` `#Greedy` `#Lexicographical` `#Swap` | [Code](./Daily-Problems/2025-09-10_largest-number-one-swap.md) |
 | 62 | 09-09-2025 | Assign Mice to Holes | ✅ Greedy + Sorting | `#Greedy` `#Sorting` `#Arrays` `#Allocation` | [Code](./Daily-Problems/2025-09-09_assign-mice-to-holes.md) |
 | 61 | 08-09-2025 | Merge Sort for Linked List | ✅ Linked List + Merge Sort | `#LinkedList` `#MergeSort` `#DivideAndConquer` `#Sorting` `#Recursive` | [Code](./Daily-Problems/2025-09-08_merge-sort-linked-list.md) |
 | 60 | 07-09-2025 | Merge K Sorted Linked Lists | ✅ Linked List + Min Heap / Priority Queue | `#LinkedList` `#Heap` `#DivideAndConquer` `#Merge` `#PriorityQueue` `#Sorting` | [Code](./Daily-Problems/2025-09-07_merge-k-sorted-linked-lists.md) |
