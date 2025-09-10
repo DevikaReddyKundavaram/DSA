@@ -62,15 +62,12 @@ class Solution:
         s = list(s)
         n = len(s)
 
-        # Track the rightmost position of each digit
         last_pos = {int(s[i]): i for i in range(n)}
 
         for i in range(n):
             curr_digit = int(s[i])
-            # Look for a larger digit
             for d in range(9, curr_digit, -1):
                 if d in last_pos and last_pos[d] > i:
-                    # Swap and return result
                     s[i], s[last_pos[d]] = s[last_pos[d]], s[i]
                     return "".join(s)
 
