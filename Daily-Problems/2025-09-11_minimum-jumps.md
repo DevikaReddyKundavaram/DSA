@@ -83,14 +83,14 @@ class Solution:
         
         for i in range(n):
             if l > r:  
-                return -1  # unreachable
+                return -1 
             
             if r >= n - 1:
-                return steps  # already reached end
+                return steps  
             
             maxReach = max(maxReach, i + arr[i])
             
-            if i == r:  # move to next jump range
+            if i == r:  
                 l = i + 1
                 r = maxReach
                 steps += 1
