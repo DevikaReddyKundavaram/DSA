@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+| 65 | 12-09-2025 | Minimize the Heights II | ✅ Greedy + Array Sorting | `#Greedy` `#Sorting` `#Optimization` `#Array` | [Code](./Daily-Problems/2025-09-12_minimize-heights-ii.md) |
 | 64 | 11-09-2025 | Minimum Jumps | ✅ Greedy + Array Traversal | `#Greedy` `#Array` `#JumpGame` `#DynamicProgramming` | [Code](./Daily-Problems/2025-09-11_minimum-jumps.md) |
 | 63 | 10-09-2025 | Largest Number in One Swap | ✅ Strings + Greedy Swap | `#Strings` `#Greedy` `#Lexicographical` `#Swap` | [Code](./Daily-Problems/2025-09-10_largest-number-one-swap.md) |
 | 62 | 09-09-2025 | Assign Mice to Holes | ✅ Greedy + Sorting | `#Greedy` `#Sorting` `#Arrays` `#Allocation` | [Code](./Daily-Problems/2025-09-09_assign-mice-to-holes.md) |
@@ -81,8 +82,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 |----------|----------------|
 | **Strings** | Basic String Operations, Prefix Checking, Binary Strings, Subsequence Matching, Trie, ASCII Logic, Palindromes, Pattern Matching (KMP/Z), Minimum Window Substring, Lexicographical Order, Swapping / Indexing |
 | **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve of Eratosthenes, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numerals |
-| **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums |
-| **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer, Container With Most Water |
+| **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums, Minimum Jumps (DP approach) |
+| **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer, Container With Most Water, Minimize Heights II, Jump Game (Greedy approach) |
 | **Arrays & Combinatorics** | Sorting, Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting, Sum of Modes |
 | **Linked List** | Basic Operations, Traversal, Two-Pointer Tricks, Swap Kth Nodes from Ends, Doubly Linked List Reversal, Group Reversal, Counting Method (0s,1s,2s), Floyd’s Cycle Detection, Merge Sort, Merge K Sorted Lists (Min Heap / Priority Queue) |
 | **Simulation & Brainteasers** | Last Moment Simulation, Direction/Path Reversal, Grid Adjustments, Interval Merging, Edge Wrapping Cases, Celebrity Problem |
