@@ -108,11 +108,9 @@ ans = arr[3] - arr[0] = 10 - 1 = 9
   - ans = min(5, 10 - 3 = 7) = 5  
 
 **Step 5: Final Answer**  
-ans = 5  
+- ans = 5  
 ✅ Output: **5**
 ---
- 
-
 ## Applications
 - **Construction Planning**: Adjusting building/tower heights to maintain skyline uniformity.  
 - **Load Balancing**: Distributing workloads among servers to minimize the gap between heaviest and lightest loads.  
