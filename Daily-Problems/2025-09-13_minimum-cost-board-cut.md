@@ -72,7 +72,7 @@ But with better choices → Minimized difference = 5.
 ```python
 def getMinDiff(arr, n, k):
     arr.sort()
-    ans = arr[n-1] - arr[0]   # initial difference
+    ans = arr[n-1] - arr[0]   
     
     small = arr[0] + k
     big = arr[n-1] - k
