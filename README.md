@@ -8,7 +8,8 @@ This is my personal DSA repository where I solve and document coding problems wi
 ## 📌 Currently Solved Problems: 
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
-|------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------|
+|------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------
+| 67 | 14-09-2025 | Gas Station | ✅ Greedy + Circular Array | `#Greedy` `#Array` `#CircularTour` `#Optimization` | [Code](./Daily-Problems/2025-09-14_gas-station.md) |
 | 66 | 13-09-2025 | Minimum Cost to Cut a Board into Squares | ✅ Greedy + Sorting | `#Greedy` `#Sorting` `#Optimization` `#Matrix` | [Code](./Daily-Problems/2025-09-13_min-cost-cut-board.md) |
 | 65 | 12-09-2025 | Minimize the Heights II | ✅ Greedy + Array Sorting | `#Greedy` `#Sorting` `#Optimization` `#Array` | [Code](./Daily-Problems/2025-09-12_minimize-heights-ii.md) |
 | 64 | 11-09-2025 | Minimum Jumps | ✅ Greedy + Array Traversal | `#Greedy` `#Array` `#JumpGame` `#DynamicProgramming` | [Code](./Daily-Problems/2025-09-11_minimum-jumps.md) |
