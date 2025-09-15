@@ -79,47 +79,25 @@ class Solution:
         return j < 0
 ```
 ---
-## Applications of Hash Tables
+## 📌 Applications
 
-1. **Databases**  
-   - Indexing for fast retrieval of records  
-   - Hash-based joins  
+1. **Text Editor Undo/Redo**  
+   - The delete operation mimics the undo functionality in text editors.  
+   - Helps in tracking and reconstructing the document state efficiently.  
 
-2. **Compilers & Interpreters**  
-   - Symbol table management (variables, functions, classes)  
+2. **Compiler Design**  
+   - Useful in parsing expressions where backtracking and string matching are required.  
+   - Can validate and transform intermediate code structures.  
 
-3. **Caching**  
-   - Storing recently accessed data (e.g., browser cache, DNS cache)  
+3. **Command Processing Systems**  
+   - Handling sequences of commands where some may need to be undone.  
+   - Similar to shell/terminal command history tracking.  
 
-4. **Cryptography & Security**  
-   - Hashing for digital signatures, password storage, integrity checks  
+4. **Pattern Matching & Validation**  
+   - Can be applied to check if a certain sequence (target) can be generated from another (pattern) with limited operations.  
 
-5. **Networking**  
-   - Routing tables  
-   - IP lookup and MAC address resolution  
-
-6. **File Systems**  
-   - Directory structures and quick file lookups  
-
-7. **Search Engines**  
-   - Storing word-to-document mappings (inverted index)  
-
-8. **Data Deduplication**  
-   - Detecting duplicates in large datasets  
-
-9. **Load Balancing**  
-   - Consistent hashing for distributed systems  
-
-10. **Games & AI**  
-   - Storing game states, transposition tables in chess engines
+5. **Data Entry Correction Systems**  
+   - Useful in real-time data entry platforms where mistaken characters can be "deleted" while building towards a target string.
 ---
-## Tags
-
-- `#HashTable`
-- `#DataStructures`
-- `#Algorithms`
-- `#ComputerScience`
-- `#InterviewPrep`
-- `#Coding`
-- `#Python`
-- `#Applications`
+## 🏷️ Tags  
+`#Stack` `#StringManipulation` `#Greedy` `#Simulation` `#PatternMatching`
