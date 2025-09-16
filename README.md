@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------
+| 69 | 16-09-2025 | Postfix Evaluation   | ✅ Stack + Operator Handling    | `#Stack` `#ExpressionEvaluation` `#PostfixNotation` `#Mathematics` `#CompilerDesign` | [Code](./Daily-Problems/2025-09-16_postfix-evaluation.md) |
 | 68 | 15-09-2025 | String Stack | ✅ Stack Simulation + String Matching | `#Stack` `#String` `#Simulation` | [Code](./Daily-Problems/2025-09-15_string-stack.md) |
 | 67 | 14-09-2025 | Gas Station | ✅ Greedy + Circular Array | `#Greedy` `#Array` `#CircularTour` `#Optimization` | [Code](./Daily-Problems/2025-09-14_gas-station.md) |
 | 66 | 13-09-2025 | Minimum Cost to Cut a Board into Squares | ✅ Greedy + Sorting | `#Greedy` `#Sorting` `#Optimization` `#Matrix` | [Code](./Daily-Problems/2025-09-13_min-cost-cut-board.md) |
