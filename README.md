@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------
+| 70 | 17-09-2025 | Decode the String | ✅ Stack + String Parsing | `#Stack` `#String` `#Decoding` `#Parsing` | [Code](./Daily-Problems/2025-09-17_decode-the-string.md) |
 | 69 | 16-09-2025 | Postfix Evaluation   | ✅ Stack + Operator Handling    | `#Stack` `#ExpressionEvaluation` `#PostfixNotation` `#Mathematics` `#CompilerDesign` | [Code](./Daily-Problems/2025-09-16_postfix-evaluation.md) |
 | 68 | 15-09-2025 | String Stack | ✅ Stack Simulation + String Matching | `#Stack` `#String` `#Simulation` | [Code](./Daily-Problems/2025-09-15_string-stack.md) |
 | 67 | 14-09-2025 | Gas Station | ✅ Greedy + Circular Array | `#Greedy` `#Array` `#CircularTour` `#Optimization` | [Code](./Daily-Problems/2025-09-14_gas-station.md) |
