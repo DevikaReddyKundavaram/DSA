@@ -85,7 +85,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | Category | Topics Covered |
 |----------|----------------|
-| **Strings** | Basic String Operations, Prefix Checking, Binary Strings, Subsequence Matching, Trie, ASCII Logic, Palindromes, Pattern Matching (KMP/Z), Minimum Window Substring, Lexicographical Order, Swapping / Indexing, String Manipulatio, Stack|
+| **Strings** | Basic String Operations, Prefix Checking, Binary Strings, Subsequence Matching, Trie, ASCII Logic, Palindromes, Pattern Matching (KMP/Z), Minimum Window Substring, Lexicographical Order, Swapping / Indexing, String Manipulatio, Stack, Parsing|
 | **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve of Eratosthenes, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numerals |
 | **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums, Minimum Jumps (DP approach) |
 | **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer, Container With Most Water, Minimize Heights II, Jump Game (Greedy approach) |
