@@ -1,4 +1,4 @@
-# Next Greater Element in Circular Array
+# 🔄 Next Greater Element in Circular Array
 
 ## 📌 Problem Statement
 Given a circular integer array `arr[]`, the task is to determine the **next greater element (NGE)** for each element in the array.
