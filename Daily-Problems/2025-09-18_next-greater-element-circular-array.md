@@ -54,10 +54,9 @@ Explanation:
 class Solution:
     def nextGreater(self, arr):
         n = len(arr)
-        res = [-1] * n   # result array
-        st = []          # stack to store indices
+        res = [-1] * n   
+        st = []          
 
-        # traverse 2n times (circular array)
         for i in range(2 * n - 1, -1, -1):
             while st and arr[st[-1]] <= arr[i % n]:
                 st.pop()
