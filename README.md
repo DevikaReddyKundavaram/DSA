@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------
+| 72 | 19-09-2025 | Min Add to Make Parentheses Valid | ✅ String + Stack / Greedy | `#String` `#Stack` `#Greedy` `#Parentheses` `#Validation` | [Code](./Daily-Problems/2025-09-19_min-add-parentheses-valid.md) |
 | 71 | 18-09-2025 | Next Greater Element in Circular Array | ✅ Stack + Monotonic Stack | `#Stack` `#MonotonicStack` `#Array` `#CircularArray` | [Code](./Daily-Problems/2025-09-18_next-greater-element-circular-array.md) |
 | 70 | 17-09-2025 | Decode the String | ✅ Stack + String Parsing | `#Stack` `#String` `#Decoding` `#Parsing` | [Code](./Daily-Problems/2025-09-17_decode-the-string.md) |
 | 69 | 16-09-2025 | Postfix Evaluation   | ✅ Stack + Operator Handling    | `#Stack` `#ExpressionEvaluation` `#PostfixNotation` `#Mathematics` `#CompilerDesign` | [Code](./Daily-Problems/2025-09-16_postfix-evaluation.md) |
