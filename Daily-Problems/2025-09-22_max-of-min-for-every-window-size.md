@@ -118,5 +118,5 @@ class Solution:
 - **Competitive Programming**: Helps in solving many range query and subarray optimization problems efficiently.
 ---
 
-## Tags
+## 🏷️Tags
 `#Stack` `#NextSmallerElement` `#SlidingWindow` `#MonotonicStack` `#Array` `#RangeQuery` `#Optimization`
