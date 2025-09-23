@@ -8,7 +8,6 @@ You are given a 2D binary matrix `mat[][]`, where each cell contains either 0 or
 ## Examples
 ```text
 Example 1:
-```python
 mat = [
     [0, 1, 1, 0],
     [1, 1, 1, 1],
