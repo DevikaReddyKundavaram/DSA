@@ -9,7 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------
-| 76 | 23-09-2025 | Queue Reversal | ✅ Stack + Queue | `#Stack` `#Queue` `#DataStructures` `#ProblemSolving` | [Code](./Daily-Problems/2025-09-23_queue-reversal.md) |
+| 76 | 23-09-2025 | Queue Reversal | ✅ Stack + Queue | `#Stack` `#Queue` `#DataStructures` `#ProblemSolving` | [Code](./Daily-Problems/2025-09-23_QueueReversal.md) |
 | 75 | 22-09-2025 | Max of Min for Every Window Size | ✅ Stack + Array | `#Stack` `#Array` `#NextSmallerElement` `#WindowProblems` | [Code](./Daily-Problems/2025-09-22_max-of-min-for-every-window-size.md) |
 | 74 | 21-09-2025 | Max Rectangle in Binary Matrix | ✅ Stack + Histogram | `#Stack` `#Histogram` `#Matrix` `#DynamicProgramming` `#Greedy` | [Code](./Daily-Problems/2025-09-21_max-rectangle.md) |
 | 73 | 20-09-2025 | Longest Subarray Length | ✅ Stack + Next/Previous Greater Element | `#Stack` `#Array` `#NextGreaterElement` `#PreviousGreaterElement` `#SlidingWindow` | [Code](./Daily-Problems/2025-09-20_longest-subarray-length.md) |
