@@ -13,7 +13,7 @@ Explanation: After reversing the given elements of the queue, the resultant queu
 Input: q[] = [1, 2, 3, 4, 5]
 Output: [5, 4, 3, 2, 1]
 Explanation: After reversing the given elements of the queue, the resultant queue will be `5 4 3 2 1`.
-
+```
 ---
 ### Constraints
 - `1 ≤ q.size() ≤ 10^3`  
@@ -58,11 +58,9 @@ class Solution:
     def reverseQueue(self, q):
         stack = []
         
-        # Push all elements of the queue into the stack
         while q:
             stack.append(q.popleft())
         
-        # Pop all elements from the stack and put them back in the queue
         while stack:
             q.append(stack.pop())
         
