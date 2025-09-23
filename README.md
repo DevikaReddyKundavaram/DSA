@@ -9,7 +9,6 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------
-
 | 73 | 20-09-2025 | Longest Subarray Length | ✅ Stack + Next/Previous Greater Element | `#Stack` `#Array` `#NextGreaterElement` `#PreviousGreaterElement` `#SlidingWindow` | [Code](./Daily-Problems/2025-09-20_longest-subarray-length.md) |
 | 72 | 19-09-2025 | Min Add to Make Parentheses Valid | ✅ String + Stack / Greedy | `#String` `#Stack` `#Greedy` `#Parentheses` `#Validation` | [Code](./Daily-Problems/2025-09-19_min-add-parentheses-valid.md) |
 | 71 | 18-09-2025 | Next Greater Element in Circular Array | ✅ Stack + Monotonic Stack | `#Stack` `#MonotonicStack` `#Array` `#CircularArray` | [Code](./Daily-Problems/2025-09-18_next-greater-element-circular-array.md) |
