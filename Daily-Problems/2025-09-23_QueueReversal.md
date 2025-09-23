@@ -92,6 +92,6 @@ Reversing a queue is a fundamental operation and can be applied in various scena
 
 ---
 
-## Tags
+## 🏷️Tags
 
 - `#Stack`, `#Queue` ,`#DataStructures`, `#Easy`, `#ProblemSolving`, `#Recursion`, `#Algorithms`, `#CompetitiveProgramming`, `#InterviewPreparation`
