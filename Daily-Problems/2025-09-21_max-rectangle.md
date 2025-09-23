@@ -115,5 +115,5 @@ class Solution:
 - **Game Development:** Collision detection or calculating largest empty rectangular areas in tile-based maps.  
 - **Dynamic Programming Practice:** Serves as a foundation for solving more complex matrix-related DP problems.  
 ---
-## Tags
+## 🏷️Tags
 `#Stack` `#Histogram` `#Matrix` `#DynamicProgramming` `#Greedy` `#2DArray` `#Optimization`
