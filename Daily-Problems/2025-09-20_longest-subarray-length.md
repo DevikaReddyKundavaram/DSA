@@ -132,5 +132,5 @@ class Solution:
 - **Constraint Validation:**  
   Checking if elements of a subsequence meet length-based restrictions efficiently.
 ---
-## Tags
+## 🏷️Tags
 `#Array` `#Stack` `#MonotonicStack` `#NextGreaterElement` `#Subarray` `#SlidingWindow` `#RangeQuery`
