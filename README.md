@@ -9,6 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------
+| 79 | 26-09-2025 | Rotate Deque By K | ✅ Queue + Deque | `#Queue` `#Deque` `#Rotation` `#CircularArray` `#DataStructures` | [Code](./Daily-Problems/2025-09-26_rotate-deque-by-k.md) |
 | 78 | 25-09-2025 | Generate Binary Numbers | ✅ Queue + BFS | `#Queue` `#Binary` `#StringGeneration` `#BFS` `#BitManipulation` | [Code](./Daily-Problems/2025-09-25_generate-binary-numbers.md) |
 | 77 | 24-09-2025 | Design MinMax Queue | ✅ Queue + Deque | `#Queue` `#Deque` `#MonotonicQueue` `#DataStructures` | [Code](./Daily-Problems/2025-09-24_design-minmax-queue.md) |
 | 76 | 23-09-2025 | Queue Reversal | ✅ Stack + Queue | `#Stack` `#Queue` `#DataStructures` `#ProblemSolving` | [Code](./Daily-Problems/2025-09-23_QueueReversal.md) |
@@ -97,7 +98,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 | **Mathematics & Number Theory** | Modulo Arithmetic, Divisors, Sieve of Eratosthenes, Prime Factorization, Legendre’s Formula, Coprime Counting, Cumulative Sum, Roman Numerals |
 | **Dynamic Programming** | 1D DP, Matrix DP, Grid Traversal, Recurrence Relations, Kadane Variants (Normal & Circular), Prefix-Suffix Maximums, Minimum Jumps (DP approach) |
 | **Greedy / Binary Search / Two-Pointer** | Greedy Placement, Allocation Strategy, Bouquet Formation, Sliding Window, Binary Search on Answer, Divide & Conquer, Container With Most Water, Minimize Heights II, Jump Game (Greedy approach) |
-| **Arrays & Combinatorics** | Sorting, Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting, Sum of Modes, Circular Array, Monotonic Array, Histogram, Queue, Deque, Monotonic Queue , BFS |
+| **Arrays & Combinatorics** | Sorting, Index Mapping, Cyclic Sort, Missing Elements, Contribution Technique, Prefix-Suffix Logic, Matrix Zeroing, Difference Matrix, Subarray Sums, Combinatorics, Permutations, Reverse Pair Counting, Triangle Counting, Sum of Modes, Circular Array, Monotonic Array, Histogram, Queue, Deque, Monotonic Queue , BFS ,Rotation|
 | **Linked List** | Basic Operations, Traversal, Two-Pointer Tricks, Swap Kth Nodes from Ends, Doubly Linked List Reversal, Group Reversal, Counting Method (0s,1s,2s), Floyd’s Cycle Detection, Merge Sort, Merge K Sorted Lists (Min Heap / Priority Queue) |
 | **Simulation & Brainteasers** | Last Moment Simulation, Direction/Path Reversal, Grid Adjustments, Interval Merging, Edge Wrapping Cases, Celebrity Problem |
 
