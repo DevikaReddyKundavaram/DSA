@@ -82,14 +82,16 @@ from collections import deque
 class Solution:    
     def rotateDeque(self, dq, type, k):
         n = len(dq)
-        k = k % n   # Optimize for k > n
+        k = k % n   
 
-        if type == 1:  # Right Rotation
+        if type == 1:
+            #dq.rotate(k)
             for _ in range(k):
-                dq.appendleft(dq.pop())  # Move last element to front
-        else:  # Left Rotation
+                dq.appendleft(dq.pop())  
+        else:
+            #dq.rotate(-k)
             for _ in range(k):
-                dq.append(dq.popleft())  # Move first element to back
+                dq.append(dq.popleft())  
         
         return list(dq)
 ```
