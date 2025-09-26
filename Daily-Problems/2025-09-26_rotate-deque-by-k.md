@@ -26,7 +26,7 @@ Explanation:
 - After 1st left rotation → [20, 30, 40, 50, 10]  
 - After 2nd left rotation → [30, 40, 50, 10, 20]  
 - After 3rd left rotation → [40, 50, 10, 20, 30]  
-
+```
 ---
 
 ## ✅ Constraints
