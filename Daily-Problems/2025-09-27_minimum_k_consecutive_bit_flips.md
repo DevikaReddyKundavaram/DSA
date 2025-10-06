@@ -1,4 +1,4 @@
-# 🧩 Problem: Handling Board Input Safely
+# 🧩 Minimum K Consecutive Bit Flips
 
 ### 📄 Problem Statement
 You are given an input that can represent either an integer or a 2D list (board).  
