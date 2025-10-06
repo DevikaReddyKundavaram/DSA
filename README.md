@@ -9,7 +9,7 @@ This is my personal DSA repository where I solve and document coding problems wi
 
 | S.No | Date       | Problem Title                             | Approach Used       | Tags                        | Solution Link                                          |
 |------|------------|--------------------------------------------|----------------------|-----------------------------|--------------------------------------------------------
-| 80 | 06-10-2025 | Minimum K Consecutive Bit Flips | ✅ Greedy + Sliding Window | `#GreedyAlgorithm` `#SlidingWindow` `#BitManipulation` `#Array` | [Code](./Daily-Problems/2025-10-06_minimum-k-consecutive-bit-flips.md) |
+| 80 | 27-10-2025 | Minimum K Consecutive Bit Flips | ✅ Greedy + Sliding Window | `#GreedyAlgorithm` `#SlidingWindow` `#BitManipulation` `#Array` | [Code](./Daily-Problems/2025-09-27_minimum-k-consecutive-bit-flips.md) |
 | 79 | 26-09-2025 | Rotate Deque By K | ✅ Queue + Deque | `#Queue` `#Deque` `#Rotation` `#CircularArray` `#DataStructures` | [Code](./Daily-Problems/2025-09-26_rotate-deque-by-k.md) |
 | 78 | 25-09-2025 | Generate Binary Numbers | ✅ Queue + BFS | `#Queue` `#Binary` `#StringGeneration` `#BFS` `#BitManipulation` | [Code](./Daily-Problems/2025-09-25_generate-binary-numbers.md) |
 | 77 | 24-09-2025 | Design MinMax Queue | ✅ Queue + Deque | `#Queue` `#Deque` `#MonotonicQueue` `#DataStructures` | [Code](./Daily-Problems/2025-09-24_design-minmax-queue.md) |
