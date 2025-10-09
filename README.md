@@ -1,4 +1,4 @@
-# 💻 Dev's DSA Problem-Solving Journey
+# 💻 Dev's DSA Problem-Solving 80 DAY'S Journey
 
 
 Hey there! 👋  
